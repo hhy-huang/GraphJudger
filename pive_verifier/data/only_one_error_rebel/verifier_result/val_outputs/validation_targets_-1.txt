@@ -1,0 +1,447 @@
+correct
+[ " agremiacao sportiva arapiraquense " , " league " , " campeonato brasileiro serie c " ]
+[ " agremiacao sportiva arapiraquense " , " nickname " , " ' ' alvinegro " ]
+[ " agremiacao sportiva arapiraquense " , " ground " , " estadio municipal coaracy da mata fonseca " ]
+[ " campeonato brasileiro serie c " , " country " , " brazil " ]
+[ " estadio municipal coaracy da mata fonseca " , " location " , " arapiraca " ]
+correct
+[ " nie haisheng " , " birth date " , " 1964 - 10 - 13 " ]
+[ " nie haisheng " , " occupation " , " fighter pilot " ]
+correct
+correct
+[ " aleksandr prudnikov " , " height " , " 185 . 0 centimetres " ]
+[ " aleksandr prudnikov " , " club " , " fc spartak moscow " ]
+[ " fc spartak moscow " , " ground " , " otkrytiye arena " ]
+correct
+[ " ciudad ayala " , " population metro " , " 1777539 " ]
+[ " ciudad ayala " , " leader title " , " city manager " ]
+[ " ciudad ayala " , " type " , " city " ]
+[ " ciudad ayala " , " population density " , " 1604 . 0 " ]
+[ " ciudad ayala " , " government type " , " council - manager government " ]
+correct
+[ " bootleg series volume 1 : the quine tapes " , " preceded by " , " squeeze the velvet underground album " ]
+[ " squeeze the velvet underground album " , " followed by " , " 1969 : the velvet underground live " ]
+correct
+[ " ciudad ayala " , " population density " , " 1604 . 0 " ]
+[ " ciudad ayala " , " leader title " , " governator " ]
+[ " ciudad ayala " , " country " , " mexico " ]
+[ " ciudad ayala " , " elevation above the sea level " , " 1147 . 0 " ]
+[ " ciudad ayala " , " time zone " , " pacific daylight time " ]
+correct
+correct
+[ " olga bondareva " , " death place " , " saint petersburg " ]
+[ " saint petersburg " , " founding date " , " 1703 - 05 - 27 " ]
+[ " saint petersburg " , " area total " , " 1439 . 0 " ]
+correct
+correct
+correct
+correct
+[ " 11th mississippi infantry monument " , " established " , " 2000 " ]
+[ " 11th mississippi infantry monument " , " location " , " adams county pennsylvania " ]
+[ " 11th mississippi infantry monument " , " municipality " , " gettysburg pennsylvania " ]
+[ " 11th mississippi infantry monument " , " category " , " contributing property " ]
+[ " adams county pennsylvania " , " has to its west " , " franklin county pennsylvania " ]
+[ " adams county pennsylvania " , " has to its north " , " cumberland county pennsylvania " ]
+correct
+correct
+[ " adolfo suarez madrid - barajas airport " , " operating organisation " , " enaire " ]
+[ " adolfo suarez madrid - barajas airport " , " location " , " alcobendas " ]
+[ " adolfo suarez madrid - barajas airport " , " elevation above the sea level " , " 610 . 0 " ]
+correct
+[ " gma new media " , " founding date " , " 2000 - 01 - 01 " ]
+[ " gma new media " , " product " , " mobile applications " ]
+correct
+[ " hypermarcas " , " location " , " sao paulo " ]
+[ " hypermarcas " , " location " , " brazil " ]
+[ " hypermarcas " , " industry " , " pharmaceuticals " ]
+[ " brazil " , " area total " , " 8514837 . 14 square kilometres " ]
+correct
+[ " bootleg series volume 1 : the quine tapes " , " genre " , " rock music " ]
+[ " bootleg series volume 1 : the quine tapes " , " preceded by " , " squeeze the velvet underground album " ]
+[ " squeeze the velvet underground album " , " preceded by " , " andy warhol ' s velvet underground featuring nico " ]
+correct
+[ " acharya institute of technology " , " campus " , " in soldevanahalli acharya dr . sarvapalli radhakrishnan road hessarghatta main road bangalore - 560090 . " ]
+[ " acharya institute of technology " , " director " , " dr . g . p . prabhukumar " ]
+[ " acharya institute of technology " , " affiliation " , " visvesvaraya technological university " ]
+[ " acharya institute of technology " , " country " , " india " ]
+correct
+[ " abraham a . ribicoff " , " death place " , " united states " ]
+[ " abraham a . ribicoff " , " birth place " , " united states " ]
+[ " united states " , " ethnic group " , " african americans " ]
+correct
+[ " bootleg series volume 1 : the quine tapes " , " artist " , " the velvet underground " ]
+[ " bootleg series volume 1 : the quine tapes " , " producer " , " the velvet underground " ]
+[ " bootleg series volume 1 : the quine tapes " , " runtime " , " 230 . 05 " ]
+[ " bootleg series volume 1 : the quine tapes " , " recorded in " , " united states " ]
+[ " bootleg series volume 1 : the quine tapes " , " recorded in " , " st . louis missouri " ]
+[ " bootleg series volume 1 : the quine tapes " , " genre " , " rock music " ]
+[ " bootleg series volume 1 : the quine tapes " , " record label " , " polydor records " ]
+correct
+[ " the fellowship of the ring " , " publisher " , " george allen & unwin " ]
+[ " the fellowship of the ring " , " literary genre " , " fantasy genre " ]
+correct
+[ " alan shepard " , " death place " , " california " ]
+[ " alan shepard " , " birth place " , " new hampshire " ]
+[ " alan shepard " , " award " , " distinguished service medal united states navy " ]
+correct
+[ " mermaid train song " , " followed by " , " imagine john lennon song " ]
+[ " mermaid train song " , " producer " , " espionage production team " ]
+[ " mermaid train song " , " album " , " california 37 train album " ]
+correct
+[ " the fellowship of the ring " , " publisher " , " george allen & unwin " ]
+[ " the fellowship of the ring " , " literary genre " , " fantasy genre " ]
+[ " the fellowship of the ring " , " followed by " , " the two towers " ]
+[ " the fellowship of the ring " , " author " , " j . r . r . tolkien " ]
+[ " the fellowship of the ring " , " release date " , " 1954 - 07 - 29 " ]
+correct
+[ " gma new media " , " location " , " philippines " ]
+[ " gma new media " , " industry " , " entertainment " ]
+correct
+[ " english without tears " , " cinematography " , " bernard knowles " ]
+[ " english without tears " , " writer " , " terence rattigan " ]
+[ " english without tears " , " runtime " , " 89 . 0 " ]
+correct
+[ " lady anne monson " , " spouse " , " george monson " ]
+[ " lady anne monson " , " death date " , " 1776 - 02 - 18 " ]
+[ " lady anne monson " , " professional field " , " botany " ]
+correct
+[ " abdul taib mahmud " , " residence " , " demak jaya jalan bako kuching sarawak " ]
+[ " abdul taib mahmud " , " party " , " parti pesaka bumiputera bersatu " ]
+correct
+[ " liselotte grschebina " , " birth place " , " karlsruhe " ]
+[ " liselotte grschebina " , " nationality " , " israel " ]
+[ " liselotte grschebina " , " training " , " school of applied arts in stuttgart " ]
+[ " karlsruhe " , " country " , " germany " ]
+[ " israel " , " language " , " modern hebrew " ]
+correct
+correct
+[ " mermaid train song " , " record label " , " columbia records " ]
+[ " mermaid train song " , " runtime " , " 3 . 16 " ]
+[ " mermaid train song " , " record label " , " sony music entertainment " ]
+[ " mermaid train song " , " writer " , " espen lind " ]
+[ " mermaid train song " , " genre " , " reggae " ]
+[ " mermaid train song " , " writer " , " amund bjorklund " ]
+correct
+[ " it ' s great to be young 1956 film " , " music composer " , " louis levy " ]
+[ " it ' s great to be young 1956 film " , " starring " , " cecil parker " ]
+[ " it ' s great to be young 1956 film " , " writer " , " ted willis " ]
+correct
+[ " aaron turner " , " genre " , " post - metal " ]
+[ " aaron turner " , " associated band / associated musical artist " , " lotus eaters band " ]
+[ " aaron turner " , " origin " , " massachusetts " ]
+[ " aaron turner " , " instrument " , " electric guitar " ]
+[ " aaron turner " , " active years start year " , " 1995 " ]
+correct
+[ " 11th mississippi infantry monument " , " established " , " 2000 " ]
+[ " 11th mississippi infantry monument " , " location " , " adams county pennsylvania " ]
+[ " 11th mississippi infantry monument " , " category " , " contributing property " ]
+[ " adams county pennsylvania " , " has to its west " , " franklin county pennsylvania " ]
+[ " adams county pennsylvania " , " has to its southeast " , " carroll county maryland " ]
+correct
+[ " nord year of no light album " , " genre " , " sludge metal " ]
+[ " nord year of no light album " , " producer " , " year of no light " ]
+[ " nord year of no light album " , " genre " , " post - metal " ]
+[ " nord year of no light album " , " record label " , " crucial blast " ]
+[ " nord year of no light album " , " release date " , " 2006 - 09 - 06 " ]
+correct
+[ " ciudad ayala " , " population metro " , " 1777539 " ]
+[ " ciudad ayala " , " leader title " , " city manager " ]
+[ " ciudad ayala " , " type " , " city " ]
+[ " ciudad ayala " , " population density " , " 1604 . 0 " ]
+[ " ciudad ayala " , " government type " , " council - manager government " ]
+[ " ciudad ayala " , " utc offset " , " - 6 " ]
+correct
+[ " super capers " , " starring " , " michael rooker " ]
+[ " super capers " , " starring " , " tom sizemore " ]
+[ " super capers " , " budget " , " 2000000 . 0 " ]
+[ " super capers " , " writer " , " ray griggs director " ]
+[ " super capers " , " director " , " ray griggs director " ]
+[ " super capers " , " runtime " , " 98 . 0 " ]
+correct
+correct
+[ " mcveagh of the south seas " , " starring " , " harry carey actor born 1878 " ]
+[ " mcveagh of the south seas " , " writer " , " harry carey actor born 1878 " ]
+correct
+[ " bionico " , " course " , " dessert " ]
+[ " bionico " , " region " , " guadalajara " ]
+[ " bionico " , " main ingredient " , " chopped fruits sour cream condensed milk granola shredded coconut raisins " ]
+[ " bionico " , " country " , " mexico " ]
+[ " dessert " , " dish variation " , " cookie " ]
+[ " mexico " , " currency " , " mexican peso " ]
+[ " mexico " , " demonym " , " mexicans " ]
+correct
+[ " ciudad ayala " , " leader title " , " city manager " ]
+[ " ciudad ayala " , " type " , " city " ]
+[ " ciudad ayala " , " population density " , " 1604 . 0 " ]
+correct
+[ " adolfo suarez madrid - barajas airport " , " operating organisation " , " enaire " ]
+[ " adolfo suarez madrid - barajas airport " , " location " , " alcobendas " ]
+[ " adolfo suarez madrid - barajas airport " , " runway length " , " 3500 . 0 " ]
+[ " enaire " , " city " , " madrid " ]
+[ " madrid " , " country " , " spain " ]
+correct
+[ " bionico " , " course " , " dessert " ]
+[ " bionico " , " ingredient " , " granola " ]
+[ " bionico " , " country " , " mexico " ]
+[ " mexico " , " currency " , " mexican peso " ]
+correct
+[ " 1147 stavropolis " , " periapsis " , " 260855000000 . 0 " ]
+[ " 1147 stavropolis " , " epoch " , " 31 july 2016 jd2457600 . 5 " ]
+correct
+[ " ciudad ayala " , " time zone " , " pacific daylight time " ]
+[ " ciudad ayala " , " population density " , " 1604 . 0 " ]
+correct
+[ " chinabank " , " number of employees " , " 5594 " ]
+[ " chinabank " , " net income " , " 15100000000 " ]
+correct
+[ " bananaman " , " creator " , " steve bright " ]
+[ " bananaman " , " last aired " , " 1986 - 04 - 15 " ]
+[ " bananaman " , " broadcasted by " , " bbc " ]
+correct
+[ " bionico " , " course " , " dessert " ]
+[ " bionico " , " region " , " guadalajara " ]
+[ " bionico " , " country " , " mexico " ]
+[ " mexico " , " currency " , " mexican peso " ]
+[ " mexico " , " demonym " , " mexicans " ]
+correct
+[ " nord year of no light album " , " followed by " , " live at roadburn 2008 year of no light album " ]
+[ " nord year of no light album " , " artist " , " year of no light " ]
+correct
+[ " alan shepard " , " birth date " , " 1923 - 11 - 18 " ]
+[ " alan shepard " , " death place " , " california " ]
+[ " alan shepard " , " birth place " , " new hampshire " ]
+[ " alan shepard " , " mission " , " apollo 14 " ]
+correct
+[ " alco rs - 3 " , " engine " , " four - stroke engine " ]
+[ " alco rs - 3 " , " cylinder count " , " 12 " ]
+[ " alco rs - 3 " , " length " , " 17068 . 8 millimetres " ]
+correct
+[ " olga bondareva " , " death place " , " saint petersburg " ]
+[ " olga bondareva " , " birth date " , " 1937 - 04 - 27 " ]
+[ " olga bondareva " , " known for " , " bondareva - shapley theorem " ]
+[ " olga bondareva " , " birth name " , " olga nikolaevna bondareva " ]
+correct
+[ " the fellowship of the ring " , " literary genre " , " fantasy genre " ]
+[ " the fellowship of the ring " , " author " , " j . r . r . tolkien " ]
+[ " the fellowship of the ring " , " release date " , " 1954 - 07 - 29 " ]
+[ " the fellowship of the ring " , " preceded by " , " the hobbit " ]
+correct
+[ " mermaid train song " , " record label " , " sony music entertainment " ]
+[ " mermaid train song " , " writer " , " amund bjorklund " ]
+[ " mermaid train song " , " writer " , " stargate production team " ]
+[ " mermaid train song " , " followed by " , " imagine john lennon song " ]
+[ " mermaid train song " , " producer " , " espionage production team " ]
+correct
+[ " nord year of no light album " , " followed by " , " live at roadburn 2008 year of no light album " ]
+[ " nord year of no light album " , " artist " , " year of no light " ]
+[ " nord year of no light album " , " release date " , " 2006 - 09 - 06 " ]
+[ " nord year of no light album " , " runtime " , " 58 . 41 " ]
+[ " nord year of no light album " , " preceded by " , " demo 2004 year of no light album " ]
+correct
+[ " 11th mississippi infantry monument " , " location " , " adams county pennsylvania " ]
+[ " 11th mississippi infantry monument " , " municipality " , " gettysburg pennsylvania " ]
+[ " 11th mississippi infantry monument " , " category " , " contributing property " ]
+[ " 11th mississippi infantry monument " , " country " , " united states " ]
+[ " adams county pennsylvania " , " has to its southeast " , " carroll county maryland " ]
+correct
+[ " liselotte grschebina " , " death date " , " 1994 - 06 - 14 " ]
+[ " liselotte grschebina " , " death place " , " israel " ]
+[ " liselotte grschebina " , " nationality " , " israel " ]
+[ " liselotte grschebina " , " birth place " , " german empire " ]
+correct
+[ " amerigas " , " region served " , " united states " ]
+[ " amerigas " , " city " , " king of prussia pennsylvania " ]
+[ " amerigas " , " operating income " , " 380700000 " ]
+[ " amerigas " , " industry " , " energy industry " ]
+[ " amerigas " , " country " , " united states " ]
+[ " amerigas " , " net income " , " 211200000 " ]
+correct
+[ " 1147 stavropolis " , " apoapsis " , " 418476000000 . 0 " ]
+[ " 1147 stavropolis " , " orbital period " , " 1249 . 6 " ]
+[ " 1147 stavropolis " , " discoverer " , " grigory neujmin " ]
+[ " 1147 stavropolis " , " discovered " , " 1929 - 06 - 11 " ]
+correct
+[ " ciudad ayala " , " utc offset " , " - 6 " ]
+[ " ciudad ayala " , " leader title " , " governator " ]
+[ " ciudad ayala " , " country " , " mexico " ]
+[ " ciudad ayala " , " elevation above the sea level " , " 1147 . 0 " ]
+correct
+[ " ciudad ayala " , " utc offset " , " - 6 " ]
+[ " ciudad ayala " , " is part of " , " morelos " ]
+correct
+correct
+[ " agremiacao sportiva arapiraquense " , " league " , " campeonato brasileiro serie c " ]
+[ " agremiacao sportiva arapiraquense " , " number of members " , " 17000 " ]
+[ " agremiacao sportiva arapiraquense " , " full name " , " agremiacao sportiva arapiraquense " ]
+[ " campeonato brasileiro serie c " , " champions " , " vila nova futebol clube " ]
+correct
+[ " bionico " , " course " , " dessert " ]
+[ " bionico " , " region " , " jalisco " ]
+[ " bionico " , " country " , " mexico " ]
+correct
+[ " bootleg series volume 1 : the quine tapes " , " producer " , " the velvet underground " ]
+[ " bootleg series volume 1 : the quine tapes " , " recorded in " , " united states " ]
+[ " bootleg series volume 1 : the quine tapes " , " recorded in " , " st . louis missouri " ]
+[ " bootleg series volume 1 : the quine tapes " , " genre " , " rock music " ]
+correct
+correct
+[ " nord year of no light album " , " artist " , " year of no light " ]
+[ " year of no light " , " associated band / associated musical artist " , " monarch band " ]
+correct
+[ " nie haisheng " , " birth place " , " zaoyang " ]
+[ " nie haisheng " , " mission " , " shenzhou 6 " ]
+[ " zaoyang " , " is part of " , " hubei " ]
+correct
+[ " aleksandr prudnikov " , " height " , " 185 . 0 centimetres " ]
+[ " aleksandr prudnikov " , " youthclub " , " fc spartak moscow " ]
+[ " fc spartak moscow " , " ground " , " otkrytiye arena " ]
+correct
+[ " pontiac rageous " , " assembly " , " michigan " ]
+[ " pontiac rageous " , " assembly " , " detroit " ]
+[ " pontiac rageous " , " production end year " , " 1997 " ]
+correct
+correct
+[ " english without tears " , " runtime " , " 89 . 0 " ]
+[ " english without tears " , " music composer " , " nicholas brodszky " ]
+[ " english without tears " , " release date " , " 1944 - 07 - 28 " ]
+[ " english without tears " , " director " , " harold french " ]
+correct
+correct
+correct
+correct
+[ " bananaman " , " starring " , " bill oddie " ]
+[ " bananaman " , " creator " , " steve bright " ]
+[ " bananaman " , " last aired " , " 1986 - 04 - 15 " ]
+[ " bananaman " , " broadcasted by " , " bbc " ]
+[ " bbc " , " city " , " broadcasting house " ]
+correct
+[ " alco rs - 3 " , " build date " , " may 1950 - august 1956 " ]
+[ " alco rs - 3 " , " builder " , " montreal locomotive works " ]
+correct
+[ " agremiacao sportiva arapiraquense " , " league " , " campeonato brasileiro serie c " ]
+[ " agremiacao sportiva arapiraquense " , " number of members " , " 17000 " ]
+[ " campeonato brasileiro serie c " , " champions " , " vila nova futebol clube " ]
+correct
+correct
+correct
+[ " nord year of no light album " , " release date " , " 2006 - 09 - 06 " ]
+[ " nord year of no light album " , " followed by " , " live at roadburn 2008 year of no light album " ]
+[ " nord year of no light album " , " genre " , " sludge metal " ]
+[ " nord year of no light album " , " producer " , " year of no light " ]
+[ " nord year of no light album " , " artist " , " year of no light " ]
+[ " nord year of no light album " , " genre " , " post - metal " ]
+[ " nord year of no light album " , " record label " , " crucial blast " ]
+correct
+[ " mermaid train song " , " followed by " , " imagine john lennon song " ]
+[ " mermaid train song " , " producer " , " espionage production team " ]
+[ " imagine john lennon song " , " certification " , " fimi " ]
+[ " imagine john lennon song " , " musical artist " , " john lennon " ]
+correct
+[ " adolfo suarez madrid - barajas airport " , " operating organisation " , " enaire " ]
+[ " adolfo suarez madrid - barajas airport " , " runway length " , " 3500 . 0 " ]
+[ " adolfo suarez madrid - barajas airport " , " elevation above the sea level " , " 610 . 0 " ]
+[ " adolfo suarez madrid - barajas airport " , " runway name " , " 14l / 32r " ]
+correct
+correct
+[ " liselotte grschebina " , " nationality " , " israel " ]
+[ " israel " , " ethnic group " , " arab citizens of israel " ]
+correct
+correct
+[ " alan b . miller hall " , " completion date " , " 2009 - 06 - 01 " ]
+[ " alan b . miller hall " , " owner " , " college of william & mary " ]
+correct
+[ " bootleg series volume 1 : the quine tapes " , " artist " , " the velvet underground " ]
+[ " bootleg series volume 1 : the quine tapes " , " producer " , " the velvet underground " ]
+[ " bootleg series volume 1 : the quine tapes " , " runtime " , " 230 . 05 " ]
+[ " bootleg series volume 1 : the quine tapes " , " recorded in " , " united states " ]
+[ " bootleg series volume 1 : the quine tapes " , " genre " , " rock music " ]
+correct
+[ " bionico " , " course " , " dessert " ]
+[ " bionico " , " dish variation " , " honey " ]
+[ " bionico " , " country " , " mexico " ]
+[ " mexico " , " currency " , " mexican peso " ]
+[ " mexico " , " demonym " , " mexicans " ]
+correct
+correct
+[ " super capers " , " distributor " , " roadside attractions " ]
+[ " super capers " , " distributor " , " lionsgate " ]
+[ " lionsgate " , " type " , " public company " ]
+correct
+correct
+[ " 11th mississippi infantry monument " , " established " , " 2000 " ]
+[ " 11th mississippi infantry monument " , " location " , " adams county pennsylvania " ]
+[ " 11th mississippi infantry monument " , " category " , " contributing property " ]
+[ " adams county pennsylvania " , " has to its southwest " , " frederick county maryland " ]
+correct
+[ " mermaid train song " , " release date " , " 2012 - 12 - 27 " ]
+[ " mermaid train song " , " preceded by " , " this ' ll be my year " ]
+[ " mermaid train song " , " writer " , " espen lind " ]
+[ " mermaid train song " , " runtime " , " 3 . 16 " ]
+[ " mermaid train song " , " writer " , " amund bjorklund " ]
+correct
+[ " ciudad ayala " , " is part of " , " morelos " ]
+[ " morelos " , " leader " , " graco ramirez " ]
+correct
+[ " bionico " , " course " , " dessert " ]
+[ " bionico " , " main ingredient " , " chopped fruits sour cream condensed milk granola shredded coconut raisins " ]
+[ " bionico " , " country " , " mexico " ]
+[ " mexico " , " currency " , " mexican peso " ]
+correct
+correct
+[ " university of burgundy " , " country " , " france " ]
+[ " france " , " leader " , " claude bartolone " ]
+correct
+correct
+[ " olga bondareva " , " known for " , " bondareva - shapley theorem " ]
+[ " olga bondareva " , " birth name " , " olga nikolaevna bondareva " ]
+[ " olga bondareva " , " alma mater " , " leningrad state university " ]
+correct
+[ " darinka dentcheva " , " professional field " , " mathematical optimization " ]
+[ " darinka dentcheva " , " alma mater " , " humboldt university " ]
+correct
+correct
+[ " andrew rayel " , " genre " , " trance music " ]
+[ " andrew rayel " , " associated band / associated musical artist " , " armin van buuren bobina mark sixma jonathan mendelsohn christian burns jwaydan alexander popov jano alexandre bergheau jonny rose sylvia tosun lira yin alexandra badoi " ]
+correct
+[ " aaron turner " , " genre " , " post - metal " ]
+[ " aaron turner " , " origin " , " united states " ]
+[ " aaron turner " , " associated band / associated musical artist " , " twilight band " ]
+[ " aaron turner " , " instrument " , " electric guitar " ]
+correct
+[ " bananaman " , " starring " , " bill oddie " ]
+[ " bananaman " , " creator " , " john geering " ]
+[ " bananaman " , " broadcasted by " , " bbc " ]
+[ " bananaman " , " first aired " , " 1983 - 10 - 03 " ]
+[ " bbc " , " city " , " broadcasting house " ]
+correct
+[ " alan b . miller hall " , " architect " , " robert a . m . stern " ]
+[ " alan b . miller hall " , " address " , " 101 ukrop way " ]
+[ " alan b . miller hall " , " building start date " , " 30 march 2007 " ]
+[ " alan b . miller hall " , " current tenants " , " mason school of business " ]
+[ " alan b . miller hall " , " location " , " williamsburg virginia " ]
+[ " mason school of business " , " country " , " united states " ]
+correct
+[ " baku turkish martyrs ' memorial " , " native name " , " turk sehitleri aniti " ]
+[ " baku turkish martyrs ' memorial " , " location " , " azerbaijan " ]
+correct
+correct
+[ " olga bondareva " , " birth place " , " leningrad ussr " ]
+[ " olga bondareva " , " birth date " , " 1937 - 04 - 27 " ]
+[ " olga bondareva " , " known for " , " bondareva - shapley theorem " ]
+[ " olga bondareva " , " birth name " , " olga nikolaevna bondareva " ]
+[ " olga bondareva " , " alma mater " , " leningrad state university " ]
+correct
+[ " it ' s great to be young 1956 film " , " starring " , " john mills " ]
+[ " it ' s great to be young 1956 film " , " gross " , " 282838 . 0 " ]
+correct
+[ " 11th mississippi infantry monument " , " established " , " 2000 " ]
+[ " 11th mississippi infantry monument " , " location " , " adams county pennsylvania " ]
+[ " 11th mississippi infantry monument " , " category " , " contributing property " ]
+[ " 11th mississippi infantry monument " , " country " , " united states " ]
+[ " adams county pennsylvania " , " has to its north " , " cumberland county pennsylvania " ]
+correct
+[ " bananaman " , " starring " , " bill oddie " ]
+[ " bananaman " , " last aired " , " 1986 - 04 - 15 " ]
+[ " bananaman " , " broadcasted by " , " bbc " ]
+[ " bbc " , " city " , " broadcasting house " ]
+correct

@@ -1,0 +1,447 @@
+Correct
+Correct
+['Harald Kaas', 'death date', '05 December 1953']
+Correct
+['Everest Spices', 'competitor', 'MDH']
+['Jallo Park', 'funding source', 'Punjab Wildlife and Parks Department']
+Correct
+['Jlia Hajd', 'date of birth', '08 September 1915']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['2011 National League Division Series', 'sport', 'Baseball']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Gannutz Glacier', 'type', 'Smooth glacier']
+Correct
+['Apsley Cherry-Garrard', 'occupation', 'Zoologist']
+['Gatson Ridge', 'mountain range', 'Cook Mountains']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Amphibolus', 'parent taxon', 'Eohypsibius']
+Correct
+Correct
+Correct
+Correct
+['John Woolfe', 'date of Death', '14 June 1969']
+Correct
+Correct
+Correct
+['2011 New York Red Bulls season', 'instance of', 'Season ( sports )']
+Correct
+['Western Cattle in Storm', 'country', 'United States']
+Correct
+['Chernobyl Way', 'instance of', 'Annual rally']
+Correct
+Correct
+Correct
+Correct
+['Maurice Brantley', 'given name', 'Maurice']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['William Berry Lyons', 'work period', '1980-1997']
+Correct
+['Lucian Flemming', 'sport', 'Association football']
+Correct
+Correct
+Correct
+['Louis Dufresne', 'date of death', '11 October 1832']
+Correct
+['Brandon Tauszik', 'date Of Birth', '00 1986']
+['Diphenolic acid', 'stable at', '168–171 °C']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Manfred Osten', 'birth Date', '19 January 1938']
+Correct
+['South Fork Eel River Wilderness', 'instance of', 'Wilderness']
+Correct
+Correct
+Correct
+['Blues Run the Game', 'genre', 'Blues']
+Correct
+['Trail Glacier', 'mountain range', 'Prince Charles Mountains']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Edgware Way Grassland', 'alternative name', 'Edgware Way Rough']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Rijeka Thermal Power Station', 'location', 'east of Rijeka']
+['Phyllonorycter pygmaea', 'host plant', 'Quercus crenata', 'Quercus acutissima', 'Quercus crispula', 'Quercus mongolica' and 'Quercus serrata']
+Correct
+['Nikolay Nikolayevich Leonov', 'given name', 'Nikolay']
+Correct
+Correct
+['Srsen Ridge', 'named after', 'Srsen ( south ridge )']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Yana Rattigan', 'birth place', 'Ukrainian SSR, USSR']
+Correct
+['Sunnylvsfjorden', 'former municipality', 'Sunnylven']
+['Léon Danchin', 'death date', '04 August 1938']
+Correct
+Correct
+Correct
+['Dr. S. M. Pandit', 'given name', 'Sambanand Monappa Pandit']
+Correct
+Correct
+['Thomas Jeffery Parker', 'date of birth', '17 October 1850']
+['Crataegus opaca', 'parent taxon', 'Hawthorn']
+Correct
+['Irene Hickson', 'date of death', '24 November 1995']
+['Herbert Blankenhorn', 'father', 'Karl Blankenhorn (1878-1963)']
+Correct
+['Kurt Blecha', 'date of death', '01 March 2013']
+Correct
+Correct
+Correct
+['Do Dooni Chaar', 'award received', 'National Film Award for Best Feature Film in Hindi at the 58th National Film Awards']
+Correct
+['Södermanland Runic Inscription 352', 'abbreviation', 'Sö 352']
+Correct
+['Juraj Dank', 'given name', 'Juraj']
+Correct
+Correct
+Correct
+['Rosemary's Billygoat', 'inception', '00 1991']
+8 September 1940. He was killed in action on 15 September 1940.
+Correct
+['Eriogonum spectabile', 'taxon rank', 'Species']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Localism Act 2011', 'topic's main category', 'Category:Localism Act 2011']
+Correct
+Correct
+Correct
+['Jim Jumani Johansson', 'date of death', '26 January 2019']
+['Mary Knight Wood Mason', 'death Place', 'Florence Italy']
+Correct
+The Mikhailovsky Palace is a grand ducal palace in Saint Petersburg, Russia. It is located on Arts Square and is an example of Empire style neoclassicism. The palace currently houses the main building of the Russian Museum and displays its collections of early, folk, eighteenth, and nineteenth century art. It was originally planned as the residence of Grand Duke Michael Pavlovich, the youngest son of Emperor Paul I.
+Correct
+Correct
+['From the Towers of the Moon', 'publication date', '00 1992']
+Correct
+Correct
+['Dual degree program', 'different from', 'MBA-PhD']
+Correct
+Correct
+Correct
+['Pirlitor', 'instance of', 'Medieval fortress']
+Correct
+Correct
+Correct
+Correct
+['Phyllonorycter acaciella', 'sex or gender', 'male']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Mark Hodgson', 'date of death', '17 October 1967']
+['Sir Augustus Meredith Nanton', 'date of death', '24 April 1925']
+['Masai Ujiri', 'date of birth', '07 July 1970']
+Correct
+Correct
+['Van Denbergh-Simmons House', 'architectural style', 'Italian Villa']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Peter Sainthill', 'said to be the subject of', 'Peter's Banquet' or 'The Cavalier in the Dumps']
+Correct
+Correct
+['Rottya', 'located in the administrative territorial entity', 'Mre og Romsdal county']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Everett Owen Alldredge', 'date of birth', '22 September 1912']
+['Indianapolis Veterans Administration Hospital', 'inception', '00 1930']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Les Sanguinaires', 'instance of', 'television film']
+Correct
+Correct
+['1988 NCAA Division I Outdoor Track and Field Championships', 'host', 'Ducks']
+['Red Konga', 'screenwriter', 'Alejandro Galindo']
+Correct
+['Mitoguardin 1', 'subclass of', 'Mitochondrial protein']
+Correct
+['2016 Rose of Tralee', 'point in time', '00 2016']
+Correct
+Correct
+Correct
+Correct
+['Pierre Bénichou', 'sex or gender', 'male']
+Correct
+Correct
+Correct
+['Re Daniel Dawal Migel 3', 'country of origin', 'Sri Lanka']
+Correct
+Correct
+['ATPase phospholipid transporting 9A', 'encoded by', 'ATP9A']
+Correct
+['Enrique Mathet', 'birth Year', '1843']
+Correct
+Correct
+['Franklin D. Roosevelt', 'office', 'President of the United States']
+['Yoav Raanan', 'sport', 'Diving']
+['Emma di Resburgo', 'original language of film or TV show', 'Italian language']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Night Striker', 'publication date', '00 1989']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Hermann Czech', 'residence', 'Vienna']
+Correct
+Correct
+Correct
+Correct
+['Basket of deplorables', 'used by', 'Donald Trump']
+Correct
+['Theodor Johansen', 'sport', 'Badminton']
+['Alonso Guzmán y Talavera', 'order', 'O.S.H.']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Erwin Frey', 'sex or gender', 'male']
+Correct
+['Rodrigo de Beniambras', 'date of death', '00 1535']
+Correct
+['Felix Geisler', 'sex or gender', 'male']
+Correct
+['Adrian Ropes', 'date of birth', '08 May 1941']
+Correct
+['Peel's Bill', 'country', 'United Kingdom']
+Correct
+Correct
+['Jakob Franck', 'date Of Birth', '18 February 1811']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Rebellion Festival', 'inception', '00 1996']
+['IWRG Máscara vs. Máscara', 'sport', 'Lucha libre']
+Correct
+Correct
+['Abdullah ztürk', 'sport', 'Table tennis']
+['Vicenta Chávez Orozco', 'death Place', 'Guadalajara']
+['Cahuilla Creek', 'distance from', 'San Jacinto']
+Correct
+Correct
+Correct
+['Lieutenant General Sir Scudamore Winde Steel', 'date of death', '11 March 1865']
+['Palit Microsystems, Ltd.', 'logistics center', 'Hong Kong']
+Correct
+Correct
+Correct
+['Dámaso José Lescaille Tabares', 'date Of Birth', '11 December 1934']
+Correct
+Correct
+['Khalid Assar', 'sport', 'Table tennis']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Appalachian State', 'Arkansas State', 'Georgia Southern', 'Georgia State', 'Louisiana–Lafayette', 'Louisiana–Monroe', 'South Alabama', 'Texas State', 'Troy']
+Correct
+Correct
+Correct
+['Borbála Sóthy', 'sex or gender', 'female']
+['Binary Capital', 'location', 'San Francisco']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Ooouuu', 'performer', 'Katorah Hortense Marrero']
+['Bolesaw Romanowski', 'date of birth', '21 March 1910']
+Correct
+Correct
+Correct
+['Grevillea eryngioides', 'instance of', 'Suckering glaucous shrub']
+Correct
+Correct
+Correct
+['Louis Perceau', 'date of death', '20 April 1942']
+Correct
+Correct
+Correct
+Correct
+['Jackson Wang', 'member of', 'Got7']
+['Stephen Panasuk', 'given name', 'Stephen']
+['Chan Shih-chang', 'date of birth', '07 June 1986']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Aero Engine Corporation of China', 'main subsidiaries', 'Harbin Dong'an Engine Manufacturing Company Shenyang Liming Engine Manufacturing Company Chengdu Engine Manufacturing Company Xi'an Aero-Engine Manufacturing Company Liyang Engine Manufacturing Company Shanghai Commercial Aero-Engine Manufacturing Company']
+Correct
+['Cadell Fault', 'named after', 'Francis Cadell']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Saeed Ghani', 'sex or gender', 'male']
+['Museum Masuuni Brunou', 'operator', 'Juankoski Heritage Society']
+Correct
+['Kunhu Muhammed Puthanpurakkal', 'date of birth', '05 March 1982']
+Correct
+['Johnny Laws', 'said to be the same as', 'McKinley Mitchell']
+['Giraldilla International', 'start time', '00 2000']
+['Ask the StoryBots', 'part of', 'StoryBots media franchise']
+['Henry Stuart Carter', 'date of birth', '05 September 1910']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Chantry Island Lighthouse', 'inception', '00 1855']
+Correct
+Correct
+['Bonnie Burton', 'sex or gender', 'female']
+['God's Counting on Me, God's Counting on You (Single)', 'recorded', '2010']
+Correct
+['Rachel Berger', 'country of citizenship', 'Australia']
+Correct
+['Safaripark Beekse Bergen', 'country', 'Netherlands']
+Correct
+Correct
+['Saurashtra people', 'sex or gender', 'male']
+['Team Differdange–Geba', 'headquarters location', 'Luxembourg']
+Correct
+Correct
+Correct
+['Jaroslav Benda', 'death Place', 'Prague']
+Correct
+Correct
+['James Leroy Wright Sr.', 'date of birth', '06 May 1938']

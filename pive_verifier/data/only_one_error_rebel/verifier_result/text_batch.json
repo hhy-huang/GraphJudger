@@ -1,0 +1,18 @@
+{
+    "input_ids": [
+        "predict missing triple: Coburg Peak (, ) is the rocky peak rising to 783 m in Erul Heights on Trinity Peninsula in Graham Land, Antarctica. It is surmounting Cugnot Ice Piedmont to the northeast.The peak is named after the Bulgarian royal house of Coburg (Saxe-Coburg-Gotha), 1887\u20131946.  \u2047 S> [[\"Coburg Peak\", \"instance of\", \"Rocky peak\"], [\"Coburg Peak\", \"elevation\", \"783 m\"], [\"Coburg Peak\", \"location\", \"Erul Heights, Trinity Peninsula, Graham Land, Antarctica\"], [\"Coburg Peak\", \"surmounts\", \"Cugnot Ice Piedmont\"], [\"Coburg Peak\", \"named after\", \"Bulgarian royal house of Coburg (Saxe-Coburg-Gotha), 1887-1946\"]]"
+    ],
+    "attention_mask": [
+        1,
+        207
+    ],
+    "labels": [
+        "Correct"
+    ],
+    "ids": [
+        "<pad>"
+    ],
+    "decoder_input_ids": [
+        "Correct"
+    ]
+}

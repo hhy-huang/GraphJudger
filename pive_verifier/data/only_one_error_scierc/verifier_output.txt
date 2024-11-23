@@ -1,0 +1,100 @@
+['Recognition of proper nouns in Japanese text', 'language of work or name', 'Japanese language']
+['Trinity Peninsula Graham Land Antarctica', 'is Part Of', 'Siniger Nunatak']
+['model', 'evaluated on', 'English and Czech newspaper texts and French broadcast news transcriptions']
+Correct
+Correct
+Correct
+['Plume', 'developer', 'Carnegie-Mellon University']
+['Paper', 'author', 'Jlia Hajd']
+Correct
+Correct
+Correct
+Correct
+['Algorithm', 'language', 'Thai language']
+Correct
+Correct
+['System output', 'due to', 'Constraint-based parser/generator']
+['Result', 'justifies the effectiveness of features in robust PCA']
+['Texts', 'language', 'English language']
+Correct
+Correct
+Correct
+['Penn WSJ', 'location', 'First Presbyterian Church in Jamaica']
+Correct
+['Detector', 'trained on', '10 negative']
+['2011 South Florida Bulls football team','sport', 'American football']
+Correct
+['Acrocercops orthostacta', 'genus', 'Acrocercops']
+['System', 'acquires', 'English language']
+Correct
+['Bio-inspired model', 'application', 'Analog programmable array processor']
+['Paper', 'location', 'Garrard Glacier']
+Correct
+Correct
+['novel approach', 'instance of', 'Multiple Instance Learning']
+Correct
+Correct
+['Research', 'instance of', 'Research']
+['Minimum Bayes-Risk decoding', 'author', 'James Higginbotham FBA']
+['Paper', 'instance of', 'laboratory study']
+Correct
+['Deep analysis of compositional classes of paraphrases', 'topic's main category', 'Category:Gordon Peak']
+['Research', 'instance of', 'Experiment']
+Correct
+Correct
+['Reflections in image sequences', 'instance of', 'Gratton Nunatak']
+['This paper', 'location', 'Grautskla Cirque']
+['Topical blog post retrieval', 'author', 'John Woolfe']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['FERRET','mountain range', 'Moore Mountains']
+Correct
+['Moreton Point', 'named by', 'Discovery Investigations personnel on the 'Discovery II' who charted the islands in 1933']
+Correct
+['Moss Braes', 'location', 'Moss Braes']
+['Moser Glacier', 'location', 'Moser Glacier']
+['Chat-80', 'author', 'Maurice Brantley']
+['Human action recognition','subclass of', 'Online action detection']
+['36 Greatest Hits!', 'album', '36 Greatest Hits!']
+['Visual object tracking', 'challenge', 'airborne videos with heavy occlusion and large camera motions']
+['Paper', 'location', 'Mount Kaschak']
+['Algorithm', 'instance of', 'Algorithm']
+['Manual acquisition of semantic constraints in broad domains', 'author', 'Germaine Poinso-Chapuis']
+Correct
+['Verbmobil task', 'location', 'Kelley Nunatak']
+Correct
+['Paper', 'instance of', 'Theory']
+['Rebel','mountain', 'Mount Kendrick']
+Correct
+['Coedition', 'instance of', 'Prototype']
+['Acrocercops delicata', 'genus', 'Acrocercops']
+['Dataset', 'Market-1501']
+Correct', 'Sentence-by-sentence error correction method', 'type', 'Sentence-by-sentence error correction']
+['Practical modeling problems', 'instance of', 'Rebel dataset']
+Correct
+Correct
+['Tree-adjoining grammars', 'topic's main category', 'Category:Lystad Bay']
+['Amplitudes and phase lags', 'quantized into','small number of values without altering the writing intelligibility']
+Correct
+Correct
+Correct
+Correct
+['emphasizes', 'demonstration in UNIX for Applied Natural Language Processing']
+['Part-of-speech tagger', 'author', 'Louis Dufresne']
+['Person re-identification', 'challenging due to', 'camera view']
+Correct
+['encoding sound', 'critical step', 'analog pressure wave']
+Correct
+['approach','suitable for', 'current work in unsupervised object discovery without top-down knowledge']
+['paper', 'title', 'Beware the Gonzo']
+['Morphological description', 'language', 'Turkish language']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Atheism in Christianity', 'topic's main category', 'Category:Atheism in Christianity']

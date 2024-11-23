@@ -1,0 +1,100 @@
+['Coburg Peak', 'named after', 'Bulgarian royal house of Coburg (Saxe-Coburg-Gotha) 1887–1946']
+['Siniger Nunatak', 'location', 'Trinity Peninsula Graham Land Antarctica']
+['work', 'instance of', 'Bayesian inference']
+['Utus Peak', 'named after', 'Utus']
+Correct
+Correct
+['Western Refining', 'chairman', 'Paul L. Foster']
+['Jlia Hajd', 'birth Date', '1915-09-08']
+Correct
+Correct
+Correct
+['Pseudopostega cretea', 'described by source', 'Edward Meyrick']
+Correct
+Correct
+Correct
+['Talladega 500','season', '1977 NASCAR Winston Cup Series']
+['Robust principal component analysis', 'instance of', 'principal component analysis']
+['Austins Bridge', 'genre', 'Christian country music']
+['1906 USC Methodists football team','season', '1906 college football season']
+Correct
+['Author', 'Andrew Pierce ( journalist, editor, author, broadcaster and political commentator )']
+['First Presbyterian Church in Jamaica', 'country', 'United States']
+['Paper', 'author', 'David Jason Latour']
+['KPN-Zendmast Waalhaven', 'location', 'Rotterdam']
+['2011 South Florida Bulls football team','season', '2011 NCAA Division I FBS football season']
+Correct
+['Acrocercops orthostacta', 'host', 'Sida cordifolia']
+Correct
+Correct
+['Gargoyle Ridge', 'named after', 'Holyoake, Cobham and Queen Elizabeth Ranges party of the New Zealand Geological Survey Antarctic Expedition (1964–65) because of the curiously wind-carved rock buttresses on top of the ridge']
+['Garrard Glacier', 'continent', 'Antarctica']
+['Gatson Ridge', 'named after', 'Karl W. Gatson']
+Correct
+Correct
+['Cape Geology', 'location', 'Victoria Land']
+['Problem','solved by', 'Geodetic Glacier']
+['Rebel dataset', 'taxon rank', 'Genus', 'Isohypsibius']
+['James Higginbotham FBA', 'date Of Death', '25 April 2014']
+['Mount Goldthwait', 'named after', 'Richard P. Goldthwait']
+Correct
+['Gordon Peak', 'continent', 'Antarctica']
+Correct
+['Gould Peak', 'location', 'Marie Byrd Land']
+Correct
+['Gratton Nunatak', 'named after', 'John W. Gratton']
+['Grautskla Cirque', 'located in the administrative territorial entity', 'Queen Maud Land']
+['John Woolfe', 'death Date', '14 June 1969']
+Correct
+Correct
+Correct
+['Paper', 'language of work or name', 'English language']
+Correct
+['Western Cattle in Storm', 'country', 'United States']
+['Moore Mountains', 'located in the administrative territorial entity', 'Queen Elizabeth Range']
+Correct
+['Moreton Point', 'named by', 'Discovery Investigations personnel on the 'Discovery II' who charted the islands in 1933']
+['Morrell Reef', 'named after', 'Captain Benjamin Morrell']
+['Moss Braes', 'located in the administrative territorial entity', 'South Orkney Islands']
+['Moser Glacier', 'named after', 'Ludwig F. Moser']
+['Maurice Brantley', 'birth Date', '19 September 1968']
+Correct
+['36 Greatest Hits!','record label', 'Reprise']
+['The Toe', 'named after', 'Discovery II']
+['Mount Kaschak', 'named after', 'John P. Kaschak']
+['Algorithm', 'named after', 'Kehle Glacier']
+['Germaine Poinso-Chapuis', 'birth Date', '06 March 1901']
+Correct
+['Kelley Nunatak', 'location', 'Antarctica']
+Correct
+['Ranney Nunatak', 'named after', 'Charles R. Ranney ionospheric physicist at Byrd Station 1969']
+['Mount Kendrick','mountain range', 'Queen Maud Mountains']
+Correct
+Correct
+['Acrocercops delicata', 'country', 'Indonesia']
+['Acrocercops lophonota', 'country', 'Indonesia']
+['Ravn Rock', 'named after', 'Whale catcher Ravn']
+Correct
+['Mount Lymburner', 'named after', 'J.H. Lymburner']
+Correct
+['Lystad Bay', 'named after', 'Captain Isak Lystad']
+Correct
+Correct
+['Rebel', 'country', 'Anguilla']
+['Pan and Syrinx', 'composer', 'Carl Nielsen']
+['SN 1998aq', 'discoverer', 'Mark Armstrong']
+['Murphys Ice Cream', 'location', 'Dingle County Kerry Ireland']
+['Louis Dufresne', 'date of birth', '18 January 1752']
+Correct
+Correct
+['encoding sound','subclass of', 'analog pressure wave']
+Correct
+Correct
+['Beware the Gonzo', 'genre', 'Romantic comedy-drama film']
+Correct
+Correct
+Correct
+['Background modeling', 'addresses','scenes with dynamic or quasi-dynamic structures']
+Correct
+['South Fork Eel River Wilderness', 'instance of', 'Wilderness']
+['Atheism in Christianity', 'author', 'Ernst Bloch']

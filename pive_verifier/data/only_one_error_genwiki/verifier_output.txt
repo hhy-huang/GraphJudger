@@ -1,0 +1,1000 @@
+['Adivikyadigihalli', 'country', 'India']
+['La Albuera', 'located in the administrative territorial entity', 'Badajoz']
+Correct
+['Declan Jones', 'given name', 'Declan']
+Correct
+Correct
+Correct
+['Nadap', 'instance of', 'Village']
+Correct
+['Gilman School', 'country', 'United States']
+['Lake Minneola High School', 'number Of Students', '7']
+Correct
+Correct
+['Kamolwan Chanyim','sport', 'Sailing']
+['Lisbet Lundquist', 'occupation', 'Actor']
+['Lumsden-Morse', 'country', 'Canada']
+['Villa de Cos Municipality', 'country', 'Mexico']
+Correct
+['Patrol Bombing Squadron Two Hundred Six', 'instance of', 'Squadron']
+Correct
+Correct
+Correct
+['Ruth Rowland Nichols','sex or gender', 'female']
+Correct
+Correct
+Correct
+['Libyan Investment Authority', 'language of work or name', 'Libyan Arabic']
+Correct
+['Pradeep Palluruthy', 'given name', 'Pradeep']
+Correct
+Correct
+Correct
+Correct
+['Bagnolo di Po', 'country', 'Italy']
+Correct
+['Xanthi Ground', 'country', 'Greece']
+['Dominican Summer League Padres', 'abbreviation', 'DSL Padres']
+['Jonas Anderson', 'country of citizenship', 'Sweden']
+['Jane Collier', 'date of death', 'March 1755']
+Correct
+Correct
+Correct
+Correct
+['Ijebu East', 'country', 'Nigeria']
+['Shannon Eastin','sport', 'American football']
+Correct
+Correct
+['Suzanna Sheed', 'given name', 'Suzanna']
+Correct
+['Piura Region', 'has Part', 'Eight provinces of Peru']
+['Thelitcham Monthly', 'genre', 'Islamic culture']
+Correct
+['Rahuapampa District', 'instance of', 'Districts of Peru']
+Correct
+Correct
+['Ingiriya', 'country', 'Sri Lanka']
+['Joseph Mariani', 'given name', 'Joseph']
+Correct
+['Jayshree Gadkar', 'date of birth', '21 February 1942']
+Correct
+Correct
+['Sergey Kalugin', 'work Period (start)', '00 1986']
+['Vernon L. Walker', 'given name', 'Vernon']
+['Pachnoda impressa', 'instance of', 'Wikimedia species name']
+Correct
+['Yoshio Tomita','sport', 'Table tennis']
+Correct
+['Charles Bryson Simonton', 'party', 'Republican Party United States']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Hohenthurm', 'instance of', 'former municipality of Germany']
+Correct
+['Monique Chaumette', 'given name', 'Monique']
+['Anthoupolis', 'located in the administrative territorial entity', 'Nicosia']
+['Gjennestad', 'alternative spelling', 'Ginnestad']
+Correct
+Correct
+Correct
+['Tambidi', 'instance of', 'Village']
+['Vasilis Avlonitis', 'genre', 'Old-school comedy']
+Correct
+['Bernie Boston','sex or gender','male']
+['2012 West Virginia Mountaineers football team', 'instance of','sports season of a sports club']
+Correct
+['yre','region', 'Southern Norway']
+['Gisela Hahn', 'occupation', 'television actress']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Écrille', 'country', 'France']
+Correct
+Correct
+['Roller Derby Bordeaux', 'country', 'France']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Sushmitha Singha Roy', 'languages spoken, written or signed', 'Bengali language']
+Correct
+['Marshchapel', 'instance of', 'Civil parish']
+Correct
+Correct
+Correct
+Correct
+['Andreas Kopasis', 'given name', 'Andreas']
+['Estadio Miguel Alemán Valdés', 'country', 'Mexico']
+Correct
+['Fuxin Mongol Autonomous County', 'country', 'China']
+['Togo national basketball team','sport', 'Basketball']
+Correct
+Correct
+['Imran Garda', 'given name', 'Imran']
+Correct
+Correct
+['Rosamond Spicer', 'given name', 'Rosamond']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Hasborn', 'located in the administrative territorial entity', 'Rhineland-Palatinate']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Montreal Museum of Fine Arts', 'language of work or name', 'French language']
+Correct
+['Balkbrug', 'country', 'Netherlands']
+Correct
+Correct
+['Niscemi', 'country', 'Italy']
+['Monks Orchard', 'instance of', 'Suburb']
+Correct
+Correct
+['René Gaston Georges Maspero','sex or gender','male']
+Correct
+Correct
+Correct
+['Naha Airport', 'location', 'Okinawa']
+['Bagholi', 'country', 'India']
+Correct
+['Mirchi and Mime', 'country', 'India']
+Correct
+Correct
+Correct
+['Mod The Sims', 'abbreviation', 'MTS']
+['Camden Airstrip', 'country', 'Trinidad']
+Correct
+Correct
+Correct
+['Gary Wang', 'given name', 'Wang Wei']
+['R. J. Adams', 'alternative Name', 'Bob Shannon']
+['Bleibeskopf', 'country', 'Germany']
+['The Rainband', 'inception', '00 2010']
+Correct
+Correct
+['Louis H. Mackey','sex or gender','male']
+['Earlswood','suburb of', 'Horley']
+['Roland Varno', 'occupation', 'Actor']
+Correct
+['Jayme Luiz Szwarcfiter', 'birth Date', '1942-07-05']
+Correct
+Correct
+Correct
+Correct
+['Giovanni Battista Visconti Aicardi', 'ordained', '1665-04-04']
+Correct
+['Tebay rail accident', 'time of accident or incident', '00 2004']
+['Jon Avila', 'given name', 'Jonathan']
+Correct
+Correct
+['Kirklinton', 'country', 'England']
+['Angela Bennett','sex or gender', 'female']
+['Wilcote', 'country', 'England']
+['The Leigh UTC', 'country', 'England']
+['Tan Jee Say', 'given name', 'Tan']
+['Anne Alvaro', 'given name', 'Anne']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Okulovsky mine', 'country', 'Belarus']
+['Dudley C. Carter','sex or gender','male']
+Correct
+['Ang Nan', 'event', '1674']
+Correct
+['Reginald de Warenne', 'given name', 'Rainald']
+['Massimo Cierro','sport', 'Tennis']
+['Thuraiyur', 'distance From', '310 km']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Sir Jadunath Sarkar CIE', 'given name', 'Jadunath']
+Correct
+Correct
+['Claudio Licciardello', 'date of birth', '11 January 1986']
+Correct
+Correct
+['Montevideo Basket Ball Club', 'first Gym', 'Martin Garcia and Republica in Montevideo']
+['Charles Wyplosz','sex or gender','male']
+Correct
+Correct
+['Combeinteignhead', 'alternative name', 'Combe-in-Teignhead']
+Correct
+Correct
+['State of Origin series','sport', 'Australian sport']
+Correct
+Correct
+['1966 Ohio Bobcats football team', 'point in time', '00 1966']
+['Helge Pedersen', 'country of citizenship', 'Norway']
+Correct
+Correct
+['Rudolf Schaad','sex or gender','male']
+Correct
+Correct
+['Paul Cushing Child', 'date of death', '12 May 1994']
+Correct
+['Double Dutch Bus', 'performer', 'Rebel']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Typotheria', 'instance of', 'extinct mammalian order']
+Correct
+Correct
+['Paul McIlveen','sport', 'Ice hockey']
+Correct
+['Exobasidiaceae', 'taxon rank', 'Family ( biology )']
+Correct
+Correct
+Correct
+['Daniel Sans', 'given name', 'Daniel']
+['Shkumbini Stadium', 'country', 'Albania']
+Correct
+['Dustin Watchman', 'occupation', 'television actor']
+Correct
+['Campbellton-Dalhousie', 'country', 'Canada']
+['Rockeskyll', 'instance of', 'collective municipality of Germany']
+Correct
+Correct
+Correct
+['Belmont Intermediate School', 'instance of', 'State coeducational school']
+Correct
+['Dunchurch railway station', 'country', 'England']
+Correct
+Correct
+['Herbert Linimair','sex or gender','male']
+Correct
+Correct
+Correct
+Correct
+['Tennessee Wing Civil Air Patrol', 'abbreviation', 'CAP']
+Correct
+Correct
+['Ansongo Airport', 'country', 'Mali']
+Correct
+Correct
+Correct
+Correct
+['Karen Quiroga Anguiano','sex or gender', 'female']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['American Party of Florida', 'located in the administrative territorial entity', 'Florida']
+['Shade River', 'located in the administrative territorial entity', 'Southeastern Ohio']
+Correct
+['Jean-Pierre Darroussin', 'country of citizenship', 'France']
+['Beacon Hill Academy', 'former name', 'Beacon Hill School']
+['Table Rock Lake', 'instance of', 'Reservoir']
+Correct
+Correct
+Correct
+Correct
+['Slutterhouse', 'inception', '00 2006']
+Correct
+['Rancho Mirage High School','mascot', 'Rebel']
+Correct
+Correct
+['Martin S. Weinberg', 'given name', 'Martin']
+['Sheepwash Channel Railway Bridge', 'country', 'England']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Isuzu Erga Mio', 'language of work or name', 'Japanese language']
+Correct
+Correct
+Correct
+['Kudra', 'country', 'India']
+Correct
+Correct
+Correct
+Correct
+['Koriya district', 'instance of', 'Districts of India']
+['Rudolf Hermann Lotze', 'given name', 'Rudolf']
+['Karl Brocks','sex or gender','male']
+['Kamepalli', 'country', 'India']
+['Emanem Records', 'inception', '00 1974']
+['William Charles Salmon', 'party', 'Republican Party United States']
+Correct
+['Rwindi Airport', 'icao Location Identifier', 'FZNR']
+Correct
+Correct
+['Langkawi Sky Bridge', 'height', '410 feet']
+['Annette Broadrick','sex or gender', 'female']
+['Audrey Bruneau', 'country of citizenship', 'France']
+Correct
+Correct
+Correct
+Correct
+['Trnski Odorovci', 'country', 'Serbia']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Desine', 'located in the administrative territorial entity', 'Veliko Gradite']
+Correct
+['Eastern Michigan College','renamed to', 'Eastern Michigan University', '1959']
+['Sebastian Kolowa Memorial University', 'abbreviation', 'SEKOMU']
+Correct
+Correct
+Correct
+['Dileep Agrawal','sex or gender','male']
+Correct
+Correct
+['Cypridocopina', 'instance of','suborder of ostracods']
+Correct
+Correct
+['Bowmanville GO Station', 'community', 'Bowmanville']
+Correct
+Correct
+Correct
+Correct
+['Con-Version', 'country', 'Canada']
+['Kadipikonda', 'country', 'India']
+Correct
+['Reserve Squadron VF-742', 'time of disestablishment', '02 February 1951']
+Correct
+['Sangduen Manwong', 'given name', 'Sangduen']
+['1999 UCI Track Cycling World Championships', 'point in time', '00 1999']
+Correct
+Correct
+['Tobey Black', 'instrument', 'Guitar']
+['Carauari Airport', 'country', 'Brazil']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Miyabi Inoue','sport', 'Tennis']
+['Forsmark Nuclear Power Plant', 'country', 'Sweden']
+Correct
+Correct
+['Obo Kwahu', 'country', 'Ghana']
+Correct
+Correct
+['Tarokoid languages', 'instance of', 'language family']
+['Quishuar District', 'instance of', 'Districts of Peru']
+['Graham Downs', 'instance of', 'Rebel']
+['Punta de Vacas Heliport', 'instance of', 'High-elevation heliport']
+['Potez', 'founded by', 'Aéroplanes Henry Potez']
+['East Malling and Larkfield', 'country', 'England']
+Correct
+Correct
+Correct
+['Al-Irsyad Mosque', 'alternative name', 'Ridwan Kamil Mosque']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Chuchuliga', 'country', 'Bulgaria']
+['RPG Maker 2000', 'abbreviation', 'RM2K']
+['Ruine Raabeck', 'country', 'Austria']
+Correct
+['Jaine Fenn', 'genre', 'Science fiction']
+Correct
+Correct
+['Dhak Plahi','source', 'Census India']
+Correct
+Correct
+Correct
+Correct
+['Fiona Loewi', 'given name', 'Fiona']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Iceni Academy', 'instance of', 'all-through school']
+['Nyamira County', 'instance of', 'County of Kenya']
+['Central Sheep and Wool Research Institute', 'location', 'Malpura']
+Correct
+Correct
+['Oleg Babak','military branch', 'Ukrainian Soviet Internal Troops']
+Correct
+Correct
+['10th Jats', 'instance of', 'Regiment']
+['Pekka Lehto', 'occupation', 'film director']
+['1934 World Series', 'date', '00 1934']
+Correct
+['Société Bel Motors', 'industry', 'Automobile']
+Correct
+Correct
+['Shotgate Thickets', 'catchment', 'Imja Tsho']
+Correct
+Correct
+Correct
+Correct
+['Pierre Guffroy','sex or gender','male']
+Correct
+['Battlelore', 'inception', '00 1999']
+Correct
+['William Gaither Crudup', 'given name', 'William']
+Correct
+['Swargate', 'instance of', 'Area']
+['Calvary Temple', 'basic text', 'Bible']
+['Norman Wanstall', 'given name', 'Norman']
+Correct
+Correct
+Correct
+Correct
+['Marie Ohier','sport', 'Croquet']
+Correct
+['Imperia Tower', 'instance of', 'Complex']
+['Pakuba Airfield', 'ICAO code', 'HUPA']
+['Martha Farmer Brewer','sex or gender', 'female']
+['Sami Aittokallio','sport', 'Ice hockey']
+['Poh Siew Wah', 'genre', 'Painting']
+Correct
+['2001 Scottish League Cup Final','sport', 'Association football']
+['Spreuer Bridge', 'instance of', 'Footbridge']
+['Zira Stadium', 'country', 'Azerbaijan']
+Correct
+Correct
+['Kaptai National Park', 'instance of', 'Major national park']
+['Town', 'instance of', 'Town']
+['Taps Mugadza', 'country of citizenship', 'Zimbabwe']
+Correct
+Correct
+Correct
+['Girard Point Bridge', 'architectural style', 'Double-decked bridge']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Troponje', 'instance of', 'Village']
+Correct
+['Craponne', 'country', 'France']
+['Beirut Art Center', 'genre', 'Contemporary art']
+Correct
+['Keitrace FC', 'country', 'Liberia']
+Correct
+['CBE-FM', 'country', 'Canada']
+['Nadar Mahajana Sangam S. Vellaichamy Nadar College', 'country', 'India']
+Correct
+['Flowers Become Screens', 'country of origin', 'Canada']
+Correct
+['John Buchan School', 'location', 'Sennelager ward']
+Correct
+['The Beast of Exmoor','subclass of', 'Phantom cat']
+['Zachary Plavsic','sex or gender','male']
+['Sijua', 'instance of', 'Neighbourhood']
+['Shaul Olmert', 'date of birth', '01 January 1975']
+Correct
+['Tavaragera', 'part of', 'Northeast part of Koppal district']
+Correct
+Correct
+['Jeannie Moviestar', 'genre', 'Synthpop']
+Correct
+['Forum Oratori Italiani', 'abbreviation', 'FOI']
+['Lateduster', 'genre', 'Instrumental music']
+Correct
+['Hannah Rose', 'given name', 'Rebel']
+Correct
+['University of Kansas School of Business', 'campus', 'Main campus']
+Correct
+Correct
+['Andy Caldwell', 'genre', 'Live house music']
+['University of Victoria Faculty of Law', 'country', 'Canada']
+Correct
+Correct
+['Longana Airport', 'country', 'Vanuatu']
+['Shuna Harwood', 'given name', 'Shuna']
+['Tripura Football Association', 'abbreviation', 'Tripura FA']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Moorhampton railway station', 'to the east of', 'Norton Canon']
+['Peter Grimwade', 'date of death', '15 May 1990']
+['Brigitte Skay', 'given name', 'Brigitte']
+['Stardock', 'operating system', 'OS/2']
+Correct
+['Lucien Dalsace', 'occupation', 'Actor']
+Correct
+Correct
+['Soalala Airport', 'country', 'Madagascar']
+Correct
+Correct
+Correct
+['William Salt', 'date Of Birth', '29 October 1808']
+['Kiekko-Vantaa', 'instance of', 'ice hockey team']
+['Jerry Scott', 'given name', 'Jerry']
+['Max Kolonko', 'given name', 'Mariusz']
+['Oregon Route 339', 'abbreviation', 'OR 339']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Maritime Records', 'inception', '00 2006']
+['Ratnachura', 'instance of', 'Village development committee']
+['Wallendorfer Porzellan', 'alternative name', 'Wallendorf Porcelain']
+['Royal Air Force Barford St John', 'abbreviation', 'RAF Barford St John']
+['Camp Rice Formation', 'time period', 'Pliocene-Pleistocene']
+['Sematan Airport', 'instance of', 'Airport']
+Correct
+Correct
+Correct
+['BlueSky Software', 'country', 'United States']
+Correct
+Correct
+['Joonas Niemelä', 'position played on team / speciality', 'Forward ( ice hockey )']
+Correct
+Correct
+['Dag Thomas Hallberg','sport', 'Tennis']
+Correct
+['Sachiko Murase', 'given name', 'Sachiko']
+Correct
+Correct
+Correct
+Correct
+['Shivaharkaray', 'alternative name', 'Karavipur']
+['Irena Malkiewicz', 'occupation', 'television actor']
+['Don Froggett', 'country of citizenship', 'England']
+['Khalkhalio River', 'country', 'India']
+Correct
+Correct
+Correct
+Correct
+['Nikhil Dey', 'given name', 'Nikhil']
+Correct
+['Balampally', 'country', 'India']
+['Mount Kitatottabetsu', 'instance of', 'Mountain']
+['Spier', 'country', 'Netherlands']
+['Municipal Gallery of Athens', 'country', 'Greece']
+Correct
+['Chinchilla Airport', 'country', 'Australia']
+Correct
+Correct
+['Rossert', 'country', 'Germany']
+['Tefert El Tahtania', 'instance of', 'Commune of Algeria']
+Correct
+['Frank Charles Bunnell','sex or gender','male']
+Correct
+['Alabama School of Mathematics and Science', 'foundation date', '00 1989']
+['Mike Fink Keel Boats', 'alternative Name', 'River Rogue Keel Boats']
+['Ningchou', 'instance of', 'village in India']
+['Balu Anand', 'date of death', '03 June 2016']
+Correct
+['Niliria', 'genre', 'K-pop']
+Correct
+['Gregg Martinez', 'given name', 'Gregory John Martinez']
+['Astuvere', 'country', 'Estonia']
+Correct
+Correct
+['Oleksandr Kozak', 'given name', 'Oleksandr']
+Correct
+Correct
+Correct
+['Katharine Sergeant Angell White', 'given name', 'Katharine']
+['Raphael Laux', 'given name', 'Raphael']
+Correct
+['Gloria Mange', 'occupation', 'television actress']
+Correct
+['Viking Airlines', 'country', 'Sweden']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Thorleifs Hit Collection', 'genre', 'Double ( music )']
+['Alix Raynaud', 'given name', 'Alix']
+Correct
+Correct
+Correct
+Correct
+['William Screven','religion', 'Reformed Baptists']
+Correct
+['Aschersleben-Staßfurt', 'instance of', 'Districts of Germany']
+['Holk', 'country', 'Netherlands']
+['Saifuddin Zuhri', 'date of death', '25 March 1986']
+Correct
+['2014 WGC-HSBC Champions','sport', 'Golf']
+Correct
+Correct
+Correct
+Correct
+['Gilbert Lumoindong', 'given name', 'Gilbert']
+Correct
+['Judge Charles J. Vallone School', 'number of students', 'Public School 85']
+['Zeigeist', 'genre', 'Electronic music']
+Correct
+Correct
+['Enzo Maccarinelli','sport', 'Boxing']
+Correct
+['American Gothic Press', 'instance of', 'Magazine']
+['Rick Bates', 'given name', 'Rick']
+Correct
+Correct
+['Magnanimous Records', 'instance of', 'Artist-run record label']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Teladan Stadium', 'country', 'Indonesia']
+Correct
+Correct
+Correct
+['Étreux', 'country', 'France']
+Correct
+['Pierre Brasseur', 'given name', 'Pierre']
+['Dargouma', 'instance of', 'Village']
+Correct
+Correct
+Correct
+['AGH University of Science and Technology', 'language of work or name', 'Polish language']
+Correct
+['Great House Barn', 'instance of', 'Barn']
+Correct
+['Saale-Holzland', 'part of', 'Thuringia']
+Correct
+Correct
+['Leopoldo Penna Franca','sex or gender','male']
+Correct
+['Mere Bane Ki Baat Na Pucho', 'performer', 'Rebel']
+Correct
+Correct
+['Bangalore Development Authority', 'legal form', 'Parastatal entity']
+['University of Mkar', 'country', 'Nigeria']
+['Law and the Multiverse', 'author', 'Attorney']
+['Skinlingyong', 'located in the administrative territorial entity', 'Ladakh']
+Correct
+['Philip Tannura', 'given name', 'Philip']
+Correct
+Correct
+['Dabhoda', 'instance of', 'Area']
+Correct
+['James Blatch Piggott Dennis','sex or gender','male']
+Correct
+Correct
+['Thierry Ascione','sport', 'Tennis']
+Correct
+['Florence Meyer Homolka', 'date of death', '27 November 1962']
+Correct
+['Elvaston Castle', 'country', 'England']
+['Domenica Ruta', 'given name', 'Domenica']
+Correct
+Correct
+Correct
+['Jacques Clancy','sex or gender','male']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Al Khabr', 'instance of', 'Village']
+Correct
+['Steffen Glacier', 'instance of', 'Glacier']
+Correct
+Correct
+['City of Nunawading', 'country', 'Australia']
+['Nautrasi', 'instance of', 'Village']
+Correct
+Correct
+['Riespach', 'country', 'France']
+['Sarker Protick', 'given name', 'Sarker']
+Correct
+['Philippine High School for the Arts', 'country', 'Philippines']
+Correct
+['King Ethelbert School', 'country', 'England']
+Correct
+Correct
+Correct
+Correct
+['Arianna Garibotti','sport', 'Water polo']
+['Ten Wheel Drive', 'genre', 'Rock music']
+Correct
+Correct
+Correct
+['Tiexi Gymnasium', 'country', 'China']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Eston College', 'country', 'Canada']
+['SMA Negeri 1 Blitar', 'abbreviation', 'SMASA']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Young State Park', 'instance of', '13 state parks established in 1920']
+Correct
+Correct
+Correct
+['Yendi Municipal District', 'instance of', 'Districts of Ghana']
+['Amanda Hopmans','sport', 'Tennis']
+['Neyyattinkara Vasudevan', 'country of citizenship', 'India']
+['John Skelton Williams', 'instance of', 'Rebel']
+['Greg Weld', 'given name', 'Greg']
+Correct
+['William Doud Packard', 'date of birth', '03 November 1861']
+['Susan Arnold', 'given name', 'Susan']
+Correct
+Correct
+Correct
+Correct
+['Alfons Luczny', 'date of death', '12 August 1985']
+['Ferrari F430', 'country of origin', 'Italy']
+['Chinnakada', 'abbreviation', 'Chinnakkada']
+Correct
+Correct
+Correct
+Correct
+['Mojikit Lake', 'country', 'Canada']
+Correct
+['Stackpole Estate', 'located in the administrative territorial entity', 'Ystangbwll']
+['EMD SD75I', 'brand', 'EMD']
+Correct
+['Ardabil Airport', 'instance of', 'Airport']
+Correct
+Correct
+['Kofi Amoa-Abban','sex or gender','male']
+['Wyoming Highway 11', 'northern end', 'Wyoming Highway 130']
+['Dalag', 'alternative name', 'I-n-Daladj']
+Correct
+Correct
+Correct
+['Berkeley Plantation', 'owner', 'Benjamin Harrison IV']
+Correct
+['Philippe Bugalski', 'given name', 'Philippe']
+Correct
+Correct
+['James Keteltas Hackett', 'given name', 'James ( given name )']
+Correct
+Correct
+Correct
+Correct
+['CKOI-FM', 'instance of', 'radio station']
+Correct
+Correct
+Correct
+Correct
+Correct
+['2007 Berlin Thunder season', 'point in time', '00 2007']
+Correct
+['Swatar', 'colloquially known as', 'Is-Swatar and Tas-Swatar']
+Correct
+['Philip Ross Lightfoot', 'given name', 'Philip']
+['Gulnara Sarsenova', 'languages spoken, written or signed', 'Kazakh language']
+Correct
+['Helwak', 'country', 'India']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Charles Robert Carner', 'given name', 'Charles']
+['1962 French Grand Prix','sport', 'Automobile racing']
+['Donella Burridge','sport', 'Synchronized swimming']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Stephanie Chambers', 'given name', 'Stephanie']
+Correct
+Correct
+['Coffee Crater', 'located in the administrative territorial entity', 'British Columbia']
+Correct
+Correct
+Correct
+Correct
+['Jean Marie Charles Abadie','sex or gender','male']
+['Nathan Antunes','sex or gender','male']
+Correct
+['Little Skootamatta Creek', 'instance of', 'Creek']
+['German authorities', 'established', 'eight']
+Correct
+Correct
+['Hotel Oloffson', 'country', 'Haiti']
+['Oppheimsvatnet','municipality', 'Voss']
+Correct
+Correct
+['Schurter company', 'dissolved, abolished or demolished', 'Schurter Holding AG']
+Correct
+Correct
+Correct
+['Pozlata', 'located in the administrative territorial entity', 'Kruevac']
+Correct
+Correct
+Correct
+Correct
+['JetLink Express', 'instance of', 'Airline']
+Correct
+['Crescent Elementary School', 'city', 'Sandy Utah']
+Correct
+['Margery Tabankin','sex or gender', 'female']
+['Ariundle Oakwood', 'north of', 'Strontian']
+Correct
+['UKF College of Engineering and Technology', 'country', 'India']
+Correct
+Correct
+Correct
+Correct
+['Paul Ingebretsen','sex or gender','male']
+Correct
+Correct
+['2003 Four Continents Figure Skating Championships','sport', 'Figure skating']
+Correct
+Correct
+['Alberto Curi Naime','sex or gender','male']
+['Philip Dakin Wagoner','sex or gender','male']
+Correct
+['Barreirinha Airport', 'country', 'Brazil']
+Correct
+['Toll Global Logistics', 'abbreviation', 'TGL']
+['Betty Bird', 'given name', 'Hilde Elisabeth Ptack']
+Correct
+['Aram Bartholl', 'occupation', 'Artist']
+Correct
+['San Vicente Academy', 'abbreviation', 'SVA']
+['Domah', 'instance of', 'Mandal']
+Correct
+Correct
+Correct
+Correct
+['Suzuki GSX-R750', 'family', 'Suzuki GSX-R750']
+Correct
+['Souha Hatono VIII of Japan', 'given name', 'Sha']
+Correct
+['Gerhard Homuth','sex or gender','male']
+['Lady Evelyn-Smoothwater Provincial Park', 'located in the administrative territorial entity', 'Ontario']
+['Ruggers 34 RFC','sport', 'Rugby union']
+Correct
+['Chanda Romero', 'given name', 'Chanda']
+['Manglaur Riyasat', 'country', 'India']
+Correct
+['Flevopolder','shares border with', 'Noordoostpolder']
+['Lip Gloss', 'performer', 'Lil Mama']
+['Serbs of Croatia', 'instance of', 'ethnic group']
+Correct
+['American Library in Paris Book Award', 'instance of', 'Book award']
+['Kicking Sunrise', 'active Years Start Year', '2014']
+['Kalabovce', 'located in the administrative territorial entity', 'Surdulica']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Alternative 4', 'active Years Start Year', '2011']
+['Jablanovo', 'instance of', 'Village']
+['Ian Burgess', 'date of death', '19 May 2012']
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+['Tangasseri', 'alternative name', 'Thangassery']
+['Zurgena', 'located in the administrative territorial entity', 'Autonomous community of Andalusia']
+['Indiranagar Sangeetha Sabha', 'abbreviation', 'ISS']
+Correct
+Correct
+['Pratima Puhan','sport', 'Rowing ( sport )']
+['LCDR A class','subclass of', '0-4-4T']
+Correct
+['Haji Shah', 'instance of', 'Town']
+['Lower Shuckburgh', 'instance of', 'Village']
+['Coburg Giants','season', '1980']
+Correct
+Correct
+Correct
+Correct
+['Cahul County', 'dissolved, abolished or demolished', '00 Rebel']
+['Lekgotla Mosope','sport', 'Squash']
+Correct
+Correct
+Correct
+['Red Light Special', 'performer', 'TLC']
+Correct
+Correct
+Correct
+['Jannez', 'country of origin', 'Sweden']
+['Agle', 'located in the administrative territorial entity', 'Snsa']
+['Manuripi Airport', 'icao Location Identifier', 'SLMN']
+Correct
+Correct
+['Tony Pastore','sport', 'Australian rules football']
+Correct
+['Vigraharaja I', 'dynasty', 'Chahamana dynasty']
+Correct
+Correct
+Correct
+Correct
+Correct
+['Honda XL350R', 'brand', 'Honda']
+['Samsung Town', 'language of work or name', 'Korean language']
+Correct
+['Rishi Pahar','mountain range', 'Himalaya']
+['Herman Davis State Park', 'country', 'United States']
+['Prix du Cadran','sport', 'Horse racing']
+Correct
+['North Carolina Highway 710', 'country', 'United States']
+Correct
+['Monte Pastello', 'country', 'Italy']
+Correct
+Correct
+Correct
+Correct
+['Chester City Club', 'country', 'England']
+Correct
+['Abdullah Gaith', 'ethnic group', 'Arabs']
+Correct
+Correct
+Correct
+Correct
+Correct
+['CN Lester', 'genre', 'Classical music and alternative music']
+['1921 All-Ireland Senior Football Championship','sport', 'Gaelic football']
+['1969 Kent State Golden Flashes football team', 'point in time', '00 1969']
+['Shobhabazar Rajbari', 'alternative name', 'Shobhabazar Royal Palace']
+Correct
+['You Need a Man', 'part of', 'Shanice's fourth studio album']
+Correct
+['Rastovnica', 'population census', '2002']
+Correct
+Correct
+['MAME', 'instance of', 'Emulator']
+Correct
