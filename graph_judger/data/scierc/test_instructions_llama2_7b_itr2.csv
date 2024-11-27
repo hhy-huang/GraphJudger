@@ -1,0 +1,1382 @@
+prompt,response
+Is this true: Recognition of proper nouns studied as part of morphological analysis?,**
+Is this true: Recognition of proper nouns studied in the framework of Japanese information extraction?,**
+Is this true: Recognition of proper nouns part of Japanese text processing?,**
+Is this true: Japanese text processing problem of morphological analysis?,**
+Is this true: Japanese information extraction studied in the framework of recent years?,**
+Is this true: Multi-lingual Evaluation Task (MET) approach to Japanese text?,**
+Is this true: Amorph morphological analyzer for Japanese text?,**
+"Is this true: Amorph done all the necessary work for recognition and classification of proper names, numerical and temporal expressions?",**
+Is this true: Named Entity (NE) items recognized in Japanese text?,**
+Is this true: Amorph recognizes NE items in two stages: dictionary lookup and rule application?,**
+Is this true: dictionary lookup uses several kinds of dictionaries?,**
+Is this true: dictionary lookup segments and tags Japanese character strings?,**
+Is this true: rule application applied to segmented strings?,**
+Is this true: rule application identifies NE items?,**
+Is this true: segmented strings resulting from dictionary lookup stage?,**
+Is this true: NE item information added to segment?,**
+Is this true: segment used to generate final output?,**
+Is this true: 3 -- D stereo reconstruction scheme incorporate geometric constraints?,**
+Is this true: 3 -- D stereo reconstruction scheme improve accuracy?,**
+Is this true: 3 -- D stereo reconstruction scheme insufficient for image information?,**
+Is this true: 3 -- D stereo reconstruction scheme shape recovery 3 -- D shape?,**
+Is this true: 3 -- D stereo reconstruction scheme involves iteratively deforming a 3 -- D surface mesh?,**
+Is this true: 3 -- D stereo reconstruction scheme minimize objective function?,**
+Is this true: 3 -- D stereo reconstruction scheme combine anisotropic meshing?,**
+Is this true: 3 -- D stereo reconstruction scheme combine non-quadratic regularization approach?,**
+Is this true: 3 -- D stereo reconstruction scheme achieve satisfactory reconstruction results?,**
+Is this true: 3 -- D stereo reconstruction scheme minimal triangulations?,**
+Is this true: 3 -- D stereo reconstruction scheme enhances reconstruction?,**
+Is this true: 3 -- D stereo reconstruction scheme ensures consistency with prior knowledge of object shape?,**
+Is this true: 3 -- D stereo reconstruction scheme serve as effective constraints for 3 -- D reconstruction?,**
+Is this true: surface mesh composed of vertices?,**
+Is this true: surface mesh deformed by iterative deformation?,**
+Is this true: objective function minimized by iteratively deforming a 3 -- D surface mesh?,**
+Is this true: anisotropic meshing combined with non-quadratic regularization approach?,**
+Is this true: non-quadratic regularization approach used for regularization?,**
+Is this true: constrained optimization scheme addition of structural constraints?,**
+Is this true: constrained optimization scheme addition of numerical constraints?,**
+Is this true: object shape consistent with prior knowledge?,**
+Is this true: differential features used as effective constraints for 3 -- D reconstruction?,**
+Is this true: differential features descriptive and modeling capabilities serve as?,**
+Is this true: research direction proposes new?,**
+Is this true: research direction addresses lack of structures?,**
+Is this true: traditional n-gram models lack structures?,**
+Is this true: traditional n-gram models based on weakly supervised dependency parser?,**
+Is this true: weakly supervised dependency parser models speech syntax?,**
+Is this true: weakly supervised dependency parser relies on annotated training corpus?,**
+Is this true: annotated training corpus replaced by hand-crafted rules?,**
+Is this true: hand-crafted rules encode basic syntactic knowledge?,**
+Is this true: Bayesian inference samples rules?,**
+Is this true: Bayesian inference disambiguates and combines rules?,**
+Is this true: Bayesian inference creates tree structures?,**
+Is this true: tree structures maximize discriminative model's posterior?,**
+Is this true: discriminative model's posterior on unlabeled corpus?,**
+Is this true: discriminative model's posterior encodes sparse selectional preferences?,**
+Is this true: sparse selectional preferences between head word and dependents?,**
+Is this true: model evaluated on English newspaper texts?,**
+Is this true: model evaluated on Czech newspaper texts?,**
+Is this true: model validated on French broadcast news transcriptions?,**
+Is this true: Listen-Communicate-Show (LCS) instance of paradigm?,**
+Is this true: Listen-Communicate-Show (LCS) involves human interaction?,**
+Is this true: Listen-Communicate-Show (LCS) involves data sources?,**
+Is this true: Listen-Communicate-Show (LCS) integrates spoken language understanding system?,**
+Is this true: Listen-Communicate-Show (LCS) integrates intelligent mobile agents?,**
+Is this true: intelligent mobile agents mediate between users and information sources?,**
+Is this true: LCS-Marine application of Listen-Communicate-Show (LCS)?,**
+Is this true: tactical personnel use LCS-Marine?,**
+Is this true: tactical personnel converse with logistics system?,**
+Is this true: tactical personnel place supply request?,**
+Is this true: tactical personnel place information request?,**
+Is this true: supply request passed to mobile intelligent agent?,**
+Is this true: information request passed to mobile intelligent agent?,**
+Is this true: mobile intelligent agent execute request at database?,**
+Is this true: requestors instruct system to notify?,**
+Is this true: system notify requestors when status of request changes?,**
+Is this true: system notify requestors when request is complete?,**
+Is this true: capability demonstrated in field exercises with Marines?,**
+Is this true: capability currently being developed for applications in new domains?,**
+Is this true: Domain independent model proposed for Automated interpretation?,**
+Is this true: Domain independent model explains productive rules of interpretation?,**
+Is this true: Domain independent model based on morpho-syntactic characteristics?,**
+Is this true: Domain independent model based on semantic characteristics?,**
+Is this true: Domain independent model utilizes Pustejovsky's principles?,**
+Is this true: Domain independent model emphasizes importance of distinguishing?,**
+Is this true: Domain independent model discusses application to interpretation of compounds?,**
+Is this true: Domain independent model highlights need for complementary semantic information retrieval?,**
+Is this true: Interest points detection method utilizes Histogram information?,**
+Is this true: Interest points detection method utilizes Histogram-based representations?,**
+Is this true: Detectors identify Image regions?,**
+Is this true: Image regions have Distinct distributions?,**
+Is this true: Image regions are in Neighborhood?,**
+Is this true: Detectors capture Large-scale structures?,**
+Is this true: Detectors capture Textured patterns?,**
+Is this true: Detectors exhibit Rotation invariance?,**
+Is this true: Detectors exhibit Illumination variation invariance?,**
+Is this true: Detectors exhibit Blur invariance?,**
+Is this true: Experimental results indicate Histogram-based interest point detectors excel in matching textured scenes amidst blur and illumination alterations in terms of repeatability and distinctiveness?,**
+Is this true: Extension is Space-time interest point detection for action classification?,**
+Is this true: Plume instance of restricted domain parser?,**
+Is this true: Plume developed at Carnegie-Mellon University?,**
+Is this true: Plume parsing approach centered around semantic caseframe instantiation?,**
+Is this true: semantic caseframe instantiation offers efficiency with grammatical input?,**
+Is this true: semantic caseframe instantiation offers resilience with ungrammatical input?,**
+Is this true: Plume presents overview of current state?,**
+Is this true: Plume outlines plans for enhancing capabilities to handle passives?,**
+Is this true: Plume outlines plans for enhancing capabilities to handle relative clauses?,**
+Is this true: Plume outlines plans for enhancing capabilities to handle interrogatives?,**
+Is this true: parser language German?,**
+Is this true: parser incorporates smoothing?,**
+Is this true: parser incorporates suffix analysis?,**
+Is this true: parser achieves labelled bracket F-score?,**
+Is this true: labelled bracket F-score score 76.2?,**
+Is this true: labelled bracket F-score corpus NEGRA corpus?,**
+Is this true: model showcases high accuracy?,**
+Is this true: smoothing incorporated in unlexicalized parser?,**
+Is this true: unlexicalized parser enables exploration?,**
+Is this true: smoothing relationship with parsing outcomes?,**
+Is this true: unsupervised learning approach involves calculating eigenvectors?,**
+Is this true: unsupervised learning approach disambiguates relations?,**
+Is this true: unsupervised learning approach uses lexical features?,**
+Is this true: unsupervised learning approach uses syntactic features?,**
+Is this true: unsupervised learning approach uses contexts?,**
+Is this true: eigenvectors calculated from adjacency graph?,**
+Is this true: eigenvectors calculated from Laplacian?,**
+Is this true: eigenvectors recover submanifold?,**
+Is this true: submanifold of data?,**
+Is this true: submanifold from dimensionality space?,**
+Is this true: cluster number estimation performed on eigenvectors?,**
+Is this true: experimental results demonstrate spectral clustering-based approach?,**
+Is this true: spectral clustering-based approach outperforms other clustering methods?,**
+Is this true: Paper proposes Mathematical formalism?,**
+Is this true: Mathematical formalism combination of Structures?,**
+Is this true: Structures include Strings?,**
+Is this true: Structures include Trees?,**
+Is this true: Structures include DAGs?,**
+Is this true: Structures include Graphs?,**
+Is this true: Structures include Products?,**
+Is this true: Polarization controls Objects?,**
+Is this true: Objects belong to Elementary structures?,**
+Is this true: Elementary structures affects Saturation?,**
+Is this true: Saturation affects Final structure?,**
+Is this true: Mathematical formalism simulate Grammar formalisms?,**
+Is this true: Grammar formalisms include Rewriting systems?,**
+Is this true: Grammar formalisms include Dependency grammars?,**
+Is this true: Grammar formalisms include TAG?,**
+Is this true: Grammar formalisms include HPSG?,**
+Is this true: Grammar formalisms include LFG?,**
+Is this true: Mixed-signal paradigm presented for High-resolution parallel inner-product computation?,**
+Is this true: High-resolution parallel inner-product computation suitable for efficient implementation of kernels in image processing?,**
+Is this true: Architecture core is Analog array?,**
+Is this true: Analog array performs Binary-binary partial matrix-vector multiplication?,**
+Is this true: Analog array maintains Full digital resolution?,**
+Is this true: Analog array performs Analog-to-digital conversion?,**
+Is this true: Analog summation involves Binary products?,**
+Is this true: Analog summation based on Random statistics?,**
+Is this true: Random statistics produced by Random modulation scheme?,**
+Is this true: Random modulation scheme produces Near-Bernoulli statistics?,**
+Is this true: Random modulation scheme ensures Bernoulli statistics for highly correlated inputs?,**
+Is this true: Approach validated with Real image data?,**
+Is this true: Approach validated with Experimental results from CID/DRAM analog array prototype?,**
+Is this true: CID/DRAM analog array prototype implemented in 0.5 cents m CMOS?,**
+Is this true: projective unifocal tensor related to affine case?,**
+Is this true: bifocal tensor related to affine case?,**
+Is this true: trifocal tensor related to affine case?,**
+Is this true: trifocal tensor related to registered tensors?,**
+Is this true: affine specialization established by projective relationships?,**
+Is this true: projective relationships connect points?,**
+Is this true: projective relationships connect lines?,**
+Is this true: projective relationships connect views?,**
+Is this true: affine cameras associated with affine specialization?,**
+Is this true: trifocal tensor has constraints on components?,**
+Is this true: trifocal tensor has geometric interpretation geometric interpretation?,**
+Is this true: estimate done using factorization?,**
+Is this true: estimate done using line correspondences?,**
+Is this true: algorithm presents classifier word?,**
+Is this true: classifier word used for noun?,**
+Is this true: classifier word in Thai language?,**
+Is this true: fluctuation occurs in choice?,**
+Is this true: choice varies within speech community?,**
+Is this true: choice varies within individual speakers?,**
+Is this true: default rule assigns classifier?,**
+Is this true: classifier assigned to noun?,**
+Is this true: exact rule does not exist for classifier selection?,**
+Is this true: registration limited to unit classifiers?,**
+Is this true: unit classifiers based on representation meaning?,**
+Is this true: corpus-based method involves Biber?,**
+Is this true: corpus-based method involves Nagao?,**
+Is this true: corpus-based method involves Smadja?,**
+Is this true: corpus-based method generates Noun Classifier Associations (NCA)?,**
+Is this true: NCA addresses issues in classifier assignment?,**
+Is this true: NCA addresses semantic construction of noun phrases?,**
+Is this true: NCA statistically created from large corpus?,**
+Is this true: NCA adjusted based on concept hierarchy constraints?,**
+Is this true: NCA adjusted based on frequency of occurrences?,**
+Is this true: Transparent objects perception from Images?,**
+Is this true: Transparent objects challenging problem in Vision?,**
+Is this true: Transparent objects difficult to detect from single image?,**
+Is this true: Transparent objects behavior when observed by Moving observer?,**
+Is this true: Features behave differently from Features seen through transparent objects?,**
+Is this true: Features behave differently from Features rigidly attached to the scene?,**
+Is this true: Model-based approach presented to recover Shapes and poses of transparent objects?,**
+Is this true: Transparent objects consist of Multiple layers?,**
+Is this true: Multiple layers have Varying refractive indices?,**
+Is this true: Algorithm verified through Simulations?,**
+Is this true: Algorithm applied to Real scenes?,**
+Is this true: Algorithm achieve High accuracy in recovering the shapes of transparent objects?,**
+Is this true: novel probabilistic framework used for learning visual models of 3D object categories?,**
+Is this true: visual models combined with appearance information?,**
+Is this true: visual models combined with geometric constraints?,**
+Is this true: objects represented as ensemble of parts?,**
+Is this true: ensemble of parts consistent under 3D viewpoint transformations?,**
+Is this true: part collection of salient image features?,**
+Is this true: generative framework used for learning model?,**
+Is this true: model captures relative position of parts within discretized viewpoints?,**
+Is this true: model establishes explicit correspondences of parts across different viewpoints?,**
+Is this true: detection and classification achieved by determining position and viewpoint of model?,**
+Is this true: model maximize recognition scores of candidate objects?,**
+Is this true: approach among first to propose generative probabilistic framework for 3D object categorization?,**
+Is this true: algorithm tested on detection task?,**
+Is this true: algorithm tested on viewpoint classification task?,**
+Is this true: algorithm tested on car category from Savarese et al. 2007 dataset?,**
+Is this true: algorithm tested on car category from PASCAL VOC 2006 dataset?,**
+Is this true: algorithm showed promising results in detection task?,**
+Is this true: algorithm showed promising results in viewpoint classification task?,**
+Is this true: Ambiguity packing utilized in Lexical-Functional Grammars (LFG)?,**
+Is this true: Stochastic disambiguation techniques utilized in Lexical-Functional Grammars (LFG)?,**
+Is this true: Lexical-Functional Grammars (LFG) context of Sentence condensation?,**
+Is this true: Lexical-Functional Grammars (LFG) comprised of Linguistic parser/generator?,**
+Is this true: Lexical-Functional Grammars (LFG) comprised of Transfer component?,**
+Is this true: Transfer component parse reduction on Packed parse forests?,**
+Is this true: Lexical-Functional Grammars (LFG) comprised of Maximum-entropy model?,**
+Is this true: Maximum-entropy model stochastic output selection?,**
+Is this true: Standard parser evaluation methods recommended for automatically evaluate the summarization quality of sentence condensation systems?,**
+Is this true: Automatic parse-based evaluation shows correlation with manual evaluation of generated strings?,**
+Is this true: System output guaranteed to be grammatically correct due to the use of a constraint-based parser/generator?,**
+Is this true: Robust principal component analysis problem also known as Robust PCA?,**
+Is this true: Robust principal component analysis problem common problem in Machine learning applications?,**
+Is this true: Robust principal component analysis problem goal is to decompose Data matrix?,**
+Is this true: Data matrix decomposed into Low-rank part?,**
+Is this true: Data matrix decomposed into Sparse residual?,**
+Is this true: Current approaches focus on Low-rank plus sparse structure?,**
+Is this true: Current approaches additional side information available for Row entities?,**
+Is this true: Current approaches additional side information available for Column entities?,**
+Is this true: This paper explores Robust PCA with side information?,**
+Is this true: Robust PCA with side information leverages Prior structure and entity features for recovery?,**
+Is this true: Convex problem proposed to incorporate Side information?,**
+Is this true: Convex problem demonstrates Low-rank matrix can be accurately recovered under certain conditions?,**
+Is this true: Method allows for Recovery of low-rank matrices that Standard robust PCA cannot recover?,**
+Is this true: Results support Effectiveness of features in Robust PCA?,**
+Is this true: Synthetic experiments and Real application in Noisy image classification show that this method improves performance by utilizing side information?,**
+Is this true: Paper discusses use of demonstrative expressions in English?,**
+Is this true: Paper explores implications for discourse processing algorithms?,**
+Is this true: Demonstrative expressions have distribution dependent on genre?,**
+Is this true: Research is part of larger study on anaphoric expressions?,**
+Is this true: Results integrated into natural language generation system?,**
+Is this true: Study of expressive speech communication involves Emotion perceived by the listener?,**
+Is this true: Study of expressive speech communication involves Intended emotion conveyed by the speaker?,**
+Is this true: Emotion perceived by the listener approximates Intended emotion conveyed by the speaker?,**
+Is this true: Data analysis compares Assessments made by naive listeners and speakers?,**
+Is this true: Individuals better at Decoding their own emotions?,**
+Is this true: Individuals lead to Self-assessments being closer to intended emotions?,**
+Is this true: IEMOCAP database contains Emotional assessments?,**
+Is this true: Emotional assessments categorized as Discrete emotions?,**
+Is this true: Emotional assessments categorized as Continuous emotions?,**
+Is this true: Emotional assessments evaluated by Actors and naive listeners?,**
+Is this true: Results show Mismatch between expression and perception of emotion?,**
+Is this true: Speakers in the database assign Own emotions to specific emotional categories?,**
+Is this true: Own emotions result in More extreme values in Activation-valence space?,**
+Is this true: Blind separation problem of Underdetermined instantaneous mixtures?,**
+Is this true: Underdetermined instantaneous mixtures composed of Independent signals?,**
+Is this true: Blind separation addressed through method relying on nonstationarity of original signals?,**
+Is this true: Original signals assumed to be Piecewise stationary with varying variances in different epochs?,**
+Is this true: Method assumes Signals are not i.i.d. in each epoch?,**
+Is this true: Signals obey First-order autoregressive model?,**
+Is this true: First-order autoregressive model shown to be more appropriate for blind separation of Natural speech signals?,**
+Is this true: Separation method proposed nearly statistically efficient?,**
+Is this true: Separation method approaching Cramér-Rao lower bound?,**
+Is this true: Separated signals obey Assumed model?,**
+Is this true: Method shown to have Separation accuracy better than State-of-the-art methods?,**
+Is this true: convolution kernel used for relation extraction?,**
+Is this true: convolution kernel applied to parse trees?,**
+Is this true: parse trees contain syntactic structure information?,**
+Is this true: syntactic structure information important for relation extraction?,**
+Is this true: parse trees modeled by convolution tree kernel?,**
+Is this true: syntactic structure features embedded in parse tree?,**
+Is this true: convolution tree kernel captures syntactic structure features?,**
+Is this true: evaluation performed on ACE 2003 corpus?,**
+Is this true: convolution kernel achieves comparable performance?,**
+Is this true: convolution kernel outperforms dependency tree kernels?,**
+Is this true: ACE 2003 corpus contains ACE relation subtypes?,**
+Is this true: ACE relation subtypes consist of 24 types?,**
+Is this true: dependency tree kernels compared to convolution kernel?,**
+Is this true: convolution kernel outperforms dependency tree kernels?,**
+Is this true: ACE relation major types compared to previous two dependency tree kernels?,**
+Is this true: convolution kernel outperforms dependency tree kernels?,**
+Is this true: Turkish language type agglutinating free word order language?,**
+Is this true: Turkish challenge for language theories?,**
+Is this true: CCG lexicon induced from Turkish dependency treebank?,**
+Is this true: Turkish dependency treebank source of CCG lexicon?,**
+Is this true: Turkish language type agglutinating free word order language?,**
+Is this true: language theories challenged by agglutinating free word order language?,**
+Is this true: CCG lexicon consistent with CCG principles?,**
+Is this true: CCG lexicon created from smaller treebank?,**
+Is this true: smaller treebank compared to Penn WSJ?,**
+Is this true: Sentence extraction approach to Summarization?,**
+Is this true: Sentence extraction works in Genres?,**
+Is this true: Email communication has Utterances?,**
+Is this true: Email communication has Dialogue?,**
+Is this true: Sentence extraction may not capture Dialogue?,**
+Is this true: Sentence extraction may not capture Utterances?,**
+Is this true: Sentence extraction may not capture Summary?,**
+Is this true: Paper focus on Detection?,**
+Is this true: Detection is for Question-answer pairs?,**
+Is this true: Email conversation is for Email summarization?,**
+Is this true: Email conversation has Features?,**
+Is this true: Email conversation has Structure?,**
+Is this true: Email conversation has Email-threads?,**
+Is this true: Features improve upon Lexical similarity?,**
+Is this true: Features improve upon Discourse segments?,**
+Is this true: Object detection focus on Limited number of training examples?,**
+Is this true: Object detection demonstrate Integration of basic prior on distribution of natural images into SVMs?,**
+Is this true: SVMs known for Resistance to overfitting?,**
+Is this true: Limited number of training examples may not accurately represent Class structure?,**
+Is this true: Detectors rely heavily on Selection of training examples?,**
+Is this true: Separating hyperplane ensures Wide margin?,**
+Is this true: Separating hyperplane ensures Low probability of containing natural images in positive half space?,**
+Is this true: Experiments indicate Resulting detector is more resilient to choice of training examples?,**
+Is this true: Resulting detector enhances Linear SVM performance?,**
+Is this true: Resulting detector enhances Kernel SVM performance?,**
+Is this true: Resulting detector trained on 10 positive examples?,**
+Is this true: Resulting detector trained on 10 negative examples?,**
+Is this true: Study of clustering focuses on challenging goal?,**
+Is this true: Unified framework developed for reasoning about clustering?,**
+Is this true: Unified framework proven difficult to develop?,**
+Is this true: Research community has diverse approaches to clustering?,**
+Is this true: Formal perspective presented through impossibility theorem?,**
+Is this true: Impossibility theorem shows satisfying three simple properties with clustering function is not possible?,**
+Is this true: Trade-offs inevitable in well-known clustering techniques?,**
+Is this true: Single-linkage is a clustering technique?,**
+Is this true: Sum-of-pairs is a clustering technique?,**
+Is this true: K-means is a clustering technique?,**
+Is this true: K-median is a clustering technique?,**
+Is this true: Event-based extractive multi-document summarization approaches involve Events?,**
+Is this true: Events defined as Event terms?,**
+Is this true: Events defined as Event elements?,**
+Is this true: Important contents identified based on Frequency of events?,**
+Is this true: Important contents identified using Independent approach?,**
+Is this true: Important contents identified using Relevant approach?,**
+Is this true: Important contents identified using PageRank algorithm?,**
+Is this true: PageRank algorithm applied on Event map?,**
+Is this true: Event map constructed from Documents?,**
+Is this true: Experimental results show promising outcomes?,**
+Is this true: scanning method recovers dense sub-pixel camera-projector correspondence?,**
+Is this true: scanning method does not require photometric calibration?,**
+Is this true: scanning method does not require preliminary knowledge?,**
+Is this true: subpixel accuracy achieved by considering several zero-crossings?,**
+Is this true: zero-crossings defined by difference between pairs of unstructured patterns?,**
+Is this true: scanning method uses gray-level band-pass white noise patterns?,**
+Is this true: gray-level band-pass white noise patterns increase robustness to indirect lighting?,**
+Is this true: gray-level band-pass white noise patterns increase robustness to scene discontinuities?,**
+Is this true: method recovers scene geometry with high subpixel precision?,**
+Is this true: method can handle many challenges of active reconstruction systems?,**
+Is this true: method compares results to state-of-the-art methods such as micro phase shifting?,**
+Is this true: method compares results to modulated phase shifting?,**
+Is this true: system acquires adjectival subcategorization frames?,**
+Is this true: system acquires frequency information?,**
+Is this true: system incorporates decision-tree classifier?,**
+Is this true: decision-tree classifier tests for grammatical relations?,**
+Is this true: system uses pattern-matching language?,**
+Is this true: pattern-matching language classifies grammatical relations?,**
+Is this true: classifies into frames hierarchically?,**
+Is this true: frames hierarchically mirror inheritance-based lexica?,**
+Is this true: experiments show system is able to detect subcategorization frame types?,**
+Is this true: system has precision rate of 70%?,**
+Is this true: system has recall rate of 66%?,**
+Is this true: tool introduces linguistic annotation of subcategorization frames in corpus data?,**
+Is this true: linguistic annotation simplifies process of obtaining training and test data for subcategorization acquisition?,**
+Is this true: Machine transliteration essential in Multilingual speech and language applications?,**
+Is this true: Back-transliteration essential in Multilingual speech and language applications?,**
+Is this true: Direct orthographical mapping part of Framework?,**
+Is this true: Direct orthographical mapping includes Joint source-channel transliteration model?,**
+Is this true: Joint source-channel transliteration model also referred to as N-gram transliteration model?,**
+Is this true: N-gram transliteration model depicts Transliteration process?,**
+Is this true: Effectiveness of methods assessed through Experiments?,**
+Is this true: Experiments conducted on English/Chinese language pair?,**
+Is this true: Experiments conducted on English/Japanese language pair?,**
+Is this true: Notable enhancement observed in Transliteration accuracy?,**
+Is this true: System development efforts streamlined by Methods?,**
+Is this true: Bio-inspired model based on Vertebrate retina?,**
+Is this true: Bio-inspired model enables Complex programmable spatio-temporal dynamics?,**
+Is this true: Bio-inspired model mimics Image processing?,**
+Is this true: Bio-inspired model offers potential solution for Early vision applications?,**
+Is this true: Bio-inspired model fabricated using 0.5 µm standard CMOS process?,**
+Is this true: Prototype chip fabricated using 0.5 µm standard CMOS process?,**
+Is this true: Prototype chip has Computing power per area?,**
+Is this true: Prototype chip has Power consumption?,**
+Is this true: Prototype chip among highest reported for a single chip?,**
+Is this true: Paper discusses Design challenges?,**
+Is this true: Paper discusses Trade-offs?,**
+Is this true: Paper presents Experimental results?,**
+Is this true: Determiners play a role in conveying Utterance?,**
+Is this true: Determiners have often been disregarded in favor of grasping global meaning of a sentence?,**
+Is this true: Determiners have inherent ambiguity?,**
+Is this true: Logical formalism is suitable for representing Determiners?,**
+Is this true: Logical formalism does not force a particular interpretation?,**
+Is this true: Determiners are related to Global meaning?,**
+Is this true: Determiners are related to Sentence?,**
+Is this true: Ambiguity is inherent in Determiners?,**
+Is this true: verbal means used for grounding?,**
+Is this true: nonverbal means used for grounding?,**
+Is this true: design proposed for embodied conversational agents?,**
+Is this true: embodied conversational agents rely on verbal means?,**
+Is this true: embodied conversational agents rely on nonverbal means?,**
+Is this true: embodied conversational agents establish common ground?,**
+Is this true: common ground in human-computer interaction?,**
+Is this true: eye gaze analyzed in direction-giving task?,**
+Is this true: head nods analyzed in direction-giving task?,**
+Is this true: attentional focus analyzed in direction-giving task?,**
+Is this true: nonverbal behaviors differed depending on dialogue move?,**
+Is this true: overall pattern reflected monitoring of lack of negative feedback?,**
+Is this true: results based on nonverbal behaviors?,**
+Is this true: ECA uses verbal and nonverbal grounding acts?,**
+Is this true: verbal and nonverbal grounding acts update dialogue state?,**
+Is this true: Sentence boundary detection important for enriching speech recognition output?,**
+Is this true: Hidden Markov model developed for integrating textual and prosodic knowledge sources?,**
+Is this true: Maximum entropy classifiers developed for integrating textual and prosodic knowledge sources?,**
+Is this true: Conditional random field evaluated for sentence boundary detection task?,**
+Is this true: Conditional random field compared with prior work?,**
+Is this true: Evaluation conducted across two corpora?,**
+Is this true: Corpora include conversational telephone speech?,**
+Is this true: Corpora include broadcast news speech?,**
+Is this true: Corpora include human transcriptions?,**
+Is this true: Corpora include speech recognition output?,**
+Is this true: CRF model yields lower error rate than HMM and Maxent models?,**
+Is this true: Best results achieved by three-way voting among the classifiers?,**
+Is this true: Each model has different strengths and weaknesses for modeling the knowledge sources?,**
+Is this true: novel approach associated with objects?,**
+Is this true: novel approach involves slave camera?,**
+Is this true: slave camera follows target?,**
+Is this true: slave camera registered with master camera?,**
+Is this true: slave camera bootstrapping from incoming imagery?,**
+Is this true: method overcomes limitations?,**
+Is this true: limitations relied on geometric information?,**
+Is this true: limitations relied on appearance information?,**
+Is this true: limitations relied on correlation-based information?,**
+Is this true: Multiple Instance Learning (MIL) formulation based on logistic softmax function?,**
+Is this true: logistic softmax function of covariance-based region features?,**
+Is this true: covariance-based region features within MAP estimation framework?,**
+Is this true: approach demonstrated with PTZ camera sequences?,**
+Is this true: PTZ camera sequences in outdoor surveillance settings?,**
+Is this true: approach compared with state-of-the-art approaches?,**
+Is this true: specialized regression problem related to sampling probabilities?,**
+Is this true: sampling probabilities obtained for records in databases?,**
+Is this true: records in databases used for aggregate queries?,**
+Is this true: proposed solution is principled and provable?,**
+Is this true: proposed solution requires no parameters or data insights?,**
+Is this true: loss is inversely proportional to regressed-to values?,**
+Is this true: cost zero solution is always possible unless restricted by hard budget constraints?,**
+Is this true: unique form of regularization is necessary?,**
+Is this true: Empirical Risk Minimization (ERM) algorithm is efficient and straightforward?,**
+Is this true: Empirical Risk Minimization (ERM) algorithm is presented with theoretical generalization result?,**
+Is this true: experimental results demonstrate significant improvements over both uniform sampling and standard stratified sampling?,**
+Is this true: uniform sampling is considered industry standards?,**
+Is this true: standard stratified sampling is considered industry standards?,**
+Is this true: Kullback-Leibler distance also known as Relative entropy?,**
+Is this true: Kullback-Leibler distance computed between Probabilistic context-free grammar?,**
+Is this true: Kullback-Leibler distance computed between Probabilistic finite automaton?,**
+Is this true: Closed-form solution exists for Cross-entropy?,**
+Is this true: Cross-entropy part of Kullback-Leibler distance?,**
+Is this true: Result has various applications?,**
+Is this true: Applications in Approximating probabilistic context-free grammars with probabilistic finite automata?,**
+Is this true: Face recognition challenge for Practical applications?,**
+Is this true: Face recognition focus on Video sequences?,**
+Is this true: Face recognition utilize Photometric model?,**
+Is this true: Face recognition utilize Statistical model?,**
+Is this true: Face recognition handle Extreme illumination changes?,**
+Is this true: Face recognition invariance to Unseen head poses?,**
+Is this true: Face recognition robustness to Face motion patterns?,**
+Is this true: Recognition system evaluate on 171 individuals?,**
+Is this true: Recognition system evaluate on 1300 video sequences?,**
+Is this true: Recognition system achieve Recognition rate of over 99.7%?,**
+Is this true: Recognition system surpass Commercial software?,**
+Is this true: Recognition system surpass Methods from the literature?,**
+Is this true: Minimum Bayes-Risk (MBR) decoding is a statistical approach?,**
+Is this true: Minimum Bayes-Risk (MBR) decoding used in machine translation?,**
+Is this true: Minimum Bayes-Risk (MBR) decoding minimizes translation errors?,**
+Is this true: MBR decoding incorporates hierarchy of loss functions?,**
+Is this true: hierarchy of loss functions considers linguistic information?,**
+Is this true: linguistic information includes word strings?,**
+Is this true: linguistic information includes word-to-word alignments?,**
+Is this true: word-to-word alignments from machine translation systems?,**
+Is this true: linguistic information includes syntactic structures?,**
+Is this true: syntactic structures from parse-trees of source and target language sentences?,**
+Is this true: performance was evaluated on Chinese-to-English translation task?,**
+Is this true: MBR decoding can be effective in tuning statistical machine translation performance?,**
+Is this true: statistical machine translation performance for specific loss functions?,**
+Is this true: evaluation approaches used for Natural Language systems?,**
+Is this true: evaluation approaches not considered evaluating systems in the context of their use?,**
+Is this true: evaluating systems in the context of their use involves solving tasks that involve data retrieval?,**
+Is this true: solving tasks that involve data retrieval raises concerns about validity of those approaches?,**
+Is this true: study conducted using Wizard of Oz technique?,**
+Is this true: study identified NL requirements for performing this task?,**
+Is this true: task dialogues collected using Wizard of Oz technique?,**
+Is this true: task dialogues placed demands on prototype Natural Language system?,**
+Is this true: task given to subjects?,**
+Is this true: task emerged three important requirements?,**
+Is this true: three important requirements include operators specific to database access?,**
+Is this true: three important requirements include complex contextual references?,**
+Is this true: three important requirements include references to the structure of the information source?,**
+Is this true: paper explores how future Natural Language systems could meet these requirements?,**
+Is this true: addressee identification study on four-participants face-to-face meetings?,**
+Is this true: addressee identification utilizes Bayesian Network?,**
+Is this true: addressee identification utilizes Naive Bayes classifiers?,**
+Is this true: addressee identification prediction based on gaze?,**
+Is this true: addressee identification prediction based on utterance?,**
+Is this true: addressee identification prediction based on conversational context features?,**
+Is this true: classifiers' performances best results achieved when combined conversational context and utterance features with speaker's gaze information?,**
+Is this true: classifiers' performances little improvement observed when incorporating meeting context information?,**
+Is this true: Compositional classes examined in Class-oriented framework?,**
+Is this true: Paraphrases collected in Class-oriented framework?,**
+Is this true: Class-oriented framework used for collecting Paraphrase examples?,**
+Is this true: Paraphrase examples collected through Automatic candidate generation?,**
+Is this true: Paraphrase examples collected through Manual judgment?,**
+Is this true: Sentential paraphrases collected for each Paraphrase class?,**
+Is this true: Automatic candidate generation method for collecting Sentential paraphrases?,**
+Is this true: Manual judgment method for collecting Sentential paraphrases?,**
+Is this true: Preliminary experiments conducted on building Paraphrase corpus?,**
+Is this true: Paraphrase corpus evaluated based on Cost-efficiency?,**
+Is this true: Paraphrase corpus evaluated based on Exhaustiveness?,**
+Is this true: Paraphrase corpus evaluated based on Reliability?,**
+Is this true: Research focuses on evaluating effectiveness of using automated evaluation techniques on machine translation systems?,**
+Is this true: Automated evaluation techniques originally designed for assessing human language learners?,**
+Is this true: Automated evaluation techniques originally designed for assessing machine translation systems?,**
+Is this true: Experiment specifically looks at intelligibility of machine translation output?,**
+Is this true: Assessors able to differentiate between native and non-native language essays?,**
+Is this true: Experiment involved subjects evaluating extracts of translated newswire text?,**
+Is this true: Subjects evaluating extracts of translated newswire text?,**
+Is this true: Extracts of translated newswire text determined as expert human translations or machine translations?,**
+Is this true: Results of experiment?,**
+Is this true: Analysis of decision-making process?,**
+Is this true: Results will be presented?,**
+Is this true: machine learning approach used for bare slice disambiguation?,**
+Is this true: machine learning approach applied in dialogue?,**
+Is this true: heuristic principles extracted from corpus-based sample?,**
+Is this true: heuristic principles formulated as probabilistic Horn clauses?,**
+Is this true: probabilistic Horn clauses used to create domain independent features?,**
+Is this true: domain independent features used to annotate input dataset?,**
+Is this true: input dataset used for training by machine learning algorithms?,**
+Is this true: machine learning algorithms include SLIPPER?,**
+Is this true: machine learning algorithms include TiMBL?,**
+Is this true: SLIPPER is rule-based learning algorithm?,**
+Is this true: TiMBL is memory-based system?,**
+Is this true: SLIPPER achieves success rates of approximately 90%?,**
+Is this true: TiMBL achieves success rates of approximately 90%?,**
+Is this true: features have predictive power?,**
+Is this true: rules learnt automatically from features?,**
+Is this true: rules resemble Horn clauses?,**
+Is this true: evaluation criterion proposed for word similarity measures?,**
+Is this true: evaluation criterion name meaning-entailing substitutability?,**
+Is this true: evaluation criterion suitable for semantic-oriented NLP applications?,**
+Is this true: evaluation criterion assessed independently of specific application?,**
+Is this true: evaluation criterion high level of human agreement?,**
+Is this true: distributional word feature vectors quality of word similarity results?,**
+Is this true: distributional word feature vectors impact on word similarity results?,**
+Is this true: distributional word feature vectors introducing objective measure?,**
+Is this true: objective measure evaluating the quality of feature vectors?,**
+Is this true: feature vectors generated by feature weighting and selection function?,**
+Is this true: feature vectors enhances word similarity performance?,**
+Is this true: Reflections consist of multiple layers superimposed over each other?,**
+Is this true: Reflections pose a challenge for image processing techniques?,**
+Is this true: Reflections detected by analyzing the motion trajectories of feature points?,**
+Is this true: Reflections represented as regions containing two distinct layers moving over each other?,**
+Is this true: Detector developed by combining a set of weak detectors?,**
+Is this true: Approach utilizes novel priors?,**
+Is this true: Approach generates sparse and dense detection maps?,**
+Is this true: Approach achieves a high detection rate?,**
+Is this true: Approach addresses issues related to pathological motion and occlusion?,**
+Is this true: 3D articulated tree reconstructed from 2D point correspondences?,**
+Is this true: 3D articulated tree motion reconstructed using temporal prior?,**
+Is this true: 3D articulated tree motion encouraged by trajectory basis?,**
+Is this true: branch and bound strategies aimed to address combinatorial problem?,**
+Is this true: branch and bound strategies may not be more efficient than exhaustive search?,**
+Is this true: dynamic programming approach scales linearly with number of frames?,**
+Is this true: dynamic programming approach leverages local nature of filter interactions?,**
+Is this true: dynamic programming approach extension to affine projection?,**
+Is this true: affine projection allows for reconstruction without the need to estimate cameras?,**
+Is this true: Topical blog post retrieval task of ranking blog posts?,**
+Is this true: Topical blog post retrieval task of improving retrieval?,**
+Is this true: Topical blog post retrieval incorporate textual credibility indicators?,**
+Is this true: Topical blog post retrieval consider two groups of indicators?,**
+Is this true: Topical blog post retrieval experiments on TREC Blog track test set?,**
+Is this true: textual credibility indicators improve retrieval effectiveness?,**
+Is this true: textual credibility indicators group of post level indicators?,**
+Is this true: textual credibility indicators group of blog level indicators?,**
+Is this true: TREC Blog track test set test set for experiments?,**
+Is this true: retrieval effectiveness significantly improve retrieval effectiveness?,**
+Is this true: Go instance of board game?,**
+Is this true: Go learned from expert game records?,**
+Is this true: Go predicts moves?,**
+Is this true: Go probability distribution over legal moves?,**
+Is this true: Go used for professional play?,**
+Is this true: Go used in computer Go?,**
+Is this true: computer Go functioning as standalone Go player?,**
+Is this true: computer Go functioning as move selector?,**
+Is this true: computer Go functioning as move sorter?,**
+Is this true: computer Go functioning as training tool?,**
+Is this true: computer Go used for game tree search?,**
+Is this true: pattern extraction scheme efficiently extracts patterns?,**
+Is this true: Bayesian learning algorithm learns distribution over move values?,**
+Is this true: Bayesian learning algorithm based on local pattern context?,**
+"Is this true: system trained on 181,000 expert games?",**
+Is this true: system demonstrates excellent prediction performance?,**
+Is this true: system accurately predicts professional Go players' moves in 34% of test positions?,**
+Is this true: English topic signatures acquired by method?,**
+Is this true: English topic signatures related to concept?,**
+Is this true: English topic signatures related to word sense?,**
+Is this true: topic signature set of words?,**
+Is this true: topic signature co-occur with concept?,**
+Is this true: topic signature co-occur with word sense?,**
+Is this true: topic signature useful in NLP applications?,**
+Is this true: NLP applications include Word Sense Disambiguation?,**
+Is this true: NLP applications include Text Summarisation?,**
+Is this true: method leverages lexicalisation?,**
+Is this true: lexicalisation of word senses?,**
+Is this true: lexicalisation in English?,**
+Is this true: lexicalisation in Chinese?,**
+Is this true: Chinese text abundant in corpora?,**
+Is this true: Chinese text abundant in Web?,**
+Is this true: topic signatures evaluated in WSD task?,**
+Is this true: WSD task used second-order vector cooccurrence algorithm?,**
+Is this true: WSD task used standard WSD datasets?,**
+Is this true: WSD task yielded results?,**
+Is this true: Joint matrix triangularization is a technique used in Signal processing?,**
+Is this true: Joint matrix triangularization is a technique used in Machine learning?,**
+Is this true: Joint matrix triangularization is used to estimate the joint eigenstructure of Matrices?,**
+Is this true: Matrices are jointly diagonalizable and real?,**
+Is this true: Matrices are noisy versions of Noisy versions?,**
+Is this true: Approximate joint matrix triangularization provides a first-order upper bound on the distance between Triangularizer?,**
+Is this true: Triangularizer is of the observed noisy matrices and an exact joint triangularizer of the original matrices?,**
+Is this true: First-order upper bound is dependent on Observed matrices and the level of noise?,**
+Is this true: First-order upper bound does not rely on Specific optimization properties of the triangularizer?,**
+Is this true: Joint matrix decomposition is a novel a posteriori bound for Joint matrix decomposition?,**
+Is this true: Joint matrix decomposition is validated on Synthetic data with known ground truth?,**
+Is this true: Psycholinguistic literature provides evidence for Syntactic priming?,**
+Is this true: Syntactic priming involves repeating structures?,**
+Is this true: Paper describes method?,**
+Is this true: Method incorporates Syntactic priming?,**
+Is this true: Method incorporates Incremental probabilistic parser?,**
+Is this true: Models compared three?,**
+Is this true: Models involve priming of rules?,**
+Is this true: Models simulate reading time advantage?,**
+Is this true: Models yield increase in parsing accuracy?,**
+Is this true: Reading time advantage found in Human data?,**
+Is this true: Models involve priming within sentences?,**
+Is this true: Models involve priming within coordinate structures?,**
+Is this true: Models involve priming between sentences?,**
+Is this true: Models simulate reading time advantage?,**
+Is this true: Models yield increase in parsing accuracy?,**
+Is this true: Learned confidence measures are crucial in stereo vision?,**
+Is this true: Learned confidence measures enhanced by quality improvement?,**
+Is this true: Learned confidence measures enhanced by outlier removal?,**
+Is this true: outlier removal is crucial for quality improvement?,**
+Is this true: training data can be acquired through manual interaction?,**
+Is this true: training data can be acquired through active sensing devices?,**
+Is this true: training data can be acquired through synthetic scenes?,**
+Is this true: new approach is proposed for generating training data?,**
+Is this true: new approach is flexible?,**
+Is this true: new approach is scalable?,**
+Is this true: new approach uses stereo images?,**
+Is this true: new approach leverages different viewpoints?,**
+Is this true: new approach analyzes contradictions?,**
+Is this true: new approach analyzes consistencies?,**
+Is this true: new approach analyzes depth maps?,**
+Is this true: new approach analyzes stereo algorithm?,**
+Is this true: new approach allows automatic generation of training data?,**
+Is this true: experiments demonstrate effectiveness of approach?,**
+Is this true: performance enhancement is achieved by training on automatically generated data?,**
+Is this true: performance enhancement is achieved by training on vast amount of data?,**
+Is this true: performance enhancement is demonstrated on KITTI2012 dataset?,**
+Is this true: automatically generated training data is used instead of laser ground truth data?,**
+Is this true: autonomous agents learn domain-specific models?,**
+Is this true: autonomous agents learn actions?,**
+Is this true: autonomous agents learn planning systems?,**
+Is this true: agent learn action models?,**
+Is this true: agent learn experience?,**
+Is this true: agent learn observation?,**
+Is this true: agent learn domain expert?,**
+Is this true: methods differ from previous work?,**
+Is this true: methods use action model formalism?,**
+Is this true: methods use reactive agent?,**
+Is this true: methods implement noise-handling mechanisms?,**
+Is this true: training instances generate experience?,**
+Is this true: training instances generate observation?,**
+Is this true: GOLEM used to learn action models?,**
+Is this true: integrated learning system validated in simulated construction?,**
+Is this true: integrated learning system validated in office domains?,**
+Is this true: FERRET instance of interactive question-answering system?,**
+Is this true: FERRET addresses challenges of integrating automatic Q/A applications into real-world environments?,**
+Is this true: FERRET utilizes novel approach to Q/A known as predictive questioning?,**
+Is this true: predictive questioning attempts to identify questions and answers that users need?,**
+Is this true: predictive questioning analyzes user interactions with a system?,**
+Is this true: predictive questioning analyzes information gathering related to a particular scenario?,**
+Is this true: Annotation scheme introduced for Scientific articles?,**
+Is this true: Annotation scheme used for Training resources?,**
+Is this true: Annotation scheme improves Training resources?,**
+Is this true: Annotation scheme categorizes Information?,**
+Is this true: Information based on Rhetorical moves?,**
+Is this true: Rhetorical moves related to Argumentation?,**
+Is this true: Experimental results demonstrate Stability?,**
+Is this true: Experimental results demonstrate Reproducibility?,**
+Is this true: Experimental results demonstrate Usability?,**
+Is this true: Automated segmentation requires Shape information?,**
+Is this true: Automated segmentation requires Semantically meaningful parts?,**
+Is this true: Automated segmentation based on Mixtures of feature distributions?,**
+Is this true: Automated segmentation based on Probabilistic shape knowledge?,**
+Is this true: Automated segmentation formulated in Bayesian statistics?,**
+Is this true: Automated segmentation accounts for Robustness requirement?,**
+Is this true: Automated segmentation accounts for Image understanding?,**
+Is this true: Automated segmentation infers Semantically meaningful segments?,**
+Is this true: Automated segmentation infers Ambiguous segmentations?,**
+Is this true: Low-level feature analysis fails to reach goal?,**
+Is this true: Novel method introduced for Shape constrained image segmentation?,**
+Is this true: Novel method based on Mixtures of feature distributions?,**
+Is this true: Novel method based on Color?,**
+Is this true: Novel method based on Texture?,**
+Is this true: Novel method based on Probabilistic shape knowledge?,**
+Is this true: Combined approach formulated in Bayesian statistics?,**
+Is this true: Combined approach accounts for Robustness requirement?,**
+Is this true: Combined approach accounts for Image understanding?,**
+Is this true: Experimental evidence shows Semantically meaningful segments?,**
+Is this true: Experimental evidence shows Ambiguous segmentations?,**
+Is this true: work goal enhance human-machine interactions?,**
+Is this true: work goal enhance natural language environment?,**
+Is this true: conversations cause difficulties?,**
+Is this true: conversations cause mistakes?,**
+Is this true: conversations cause miscommunication?,**
+Is this true: difficulties arise from differences in beliefs?,**
+Is this true: difficulties arise from differences in contexts?,**
+Is this true: difficulties arise from differences in perceptions?,**
+Is this true: difficulties arise from differences in backgrounds?,**
+Is this true: difficulties arise from differences in goals?,**
+Is this true: miscommunication focus on identifying and addressing?,**
+Is this true: miscommunication focus on reference problems?,**
+Is this true: paper presents case study?,**
+Is this true: paper presents techniques?,**
+Is this true: paper advocates for less restrictive framework?,**
+Is this true: framework allows speaker flexibility?,**
+Is this true: framework allows forming utterances?,**
+Is this true: framework allows choosing how to convey?,**
+Is this true: paper introduces new perspective?,**
+Is this true: new perspective focus on extensional reference?,**
+Is this true: Combination methods improve System performance?,**
+Is this true: Combination methods benefits for Unsupervised WSD?,**
+Is this true: Combination methods investigate Voting-based combination strategies?,**
+Is this true: Combination methods investigate Arbiter-based combination strategies?,**
+Is this true: Combination methods rely on Predominant senses?,**
+Is this true: Predominant senses derive from Raw text?,**
+Is this true: Experiments use SemCor data set?,**
+Is this true: Experiments use Senseval-3 data set?,**
+Is this true: Experiments demonstrate Ensembles?,**
+Is this true: Ensembles yield better results?,**
+Is this true: Ensembles compare with State-of-the-art?,**
+Is this true: Information extraction techniques limited by Supervised training data?,**
+Is this true: Field structured extraction tasks example of Classified advertisements?,**
+Is this true: Field structured extraction tasks example of Bibliographic citations?,**
+Is this true: Hidden Markov models (HMMs) generative model for Field structured text?,**
+Is this true: Hidden Markov models (HMMs) unsupervised learning for Field structured text?,**
+Is this true: Unsupervised HMM learning fails to learn useful structure?,**
+Is this true: Prior knowledge exploited for learned structure?,**
+Is this true: Unlabeled examples attain accuracies with 400?,**
+Is this true: Labeled examples attain accuracies with 50?,**
+Is this true: Semi-supervised methods make good use of small amounts of labeled data?,**
+Is this true: Chat-80 instance of natural language question answering system?,**
+Is this true: Chat-80 designed in Prolog?,**
+Is this true: Chat-80 designed to be efficient?,**
+Is this true: Chat-80 adaptable to various applications?,**
+Is this true: Chat-80 implemented in Prolog?,**
+Is this true: Chat-80 translates English questions?,**
+Is this true: Chat-80 uses extraposition grammars?,**
+Is this true: extraposition grammars formalism of logic?,**
+Is this true: Chat-80 translates into subset of logic in Prolog?,**
+Is this true: planning algorithm transforms logical expression into efficient Prolog?,**
+Is this true: planning algorithm similar to query optimization in relational database?,**
+Is this true: Prolog executed to provide answer?,**
+Is this true: Human action recognition studied intensively 3D skeleton data?,**
+Is this true: Human action recognition attracting attention increasing?,**
+Is this true: Online action detection one step further challenging?,**
+Is this true: Online action detection identifies action type?,**
+Is this true: Online action detection localizes action positions?,**
+Is this true: Online action detection from untrimmed stream?,**
+Is this true: This paper study problem of online action detection?,**
+Is this true: This paper propose Joint Classification-Regression Recurrent Neural Network?,**
+Is this true: Joint Classification-Regression Recurrent Neural Network explore action type?,**
+Is this true: Joint Classification-Regression Recurrent Neural Network explore temporal localization information?,**
+Is this true: Joint Classification-Regression Recurrent Neural Network employ joint classification and regression optimization objective?,**
+Is this true: Network capable of localizing start and end points of actions?,**
+Is this true: Proposed model captures long-range temporal dynamics?,**
+Is this true: Proposed model avoids sliding window design?,**
+Is this true: Proposed model ensures high computational efficiency?,**
+Is this true: Subtask of regression optimization provides ability to forecast action prior to its occurrence?,**
+Is this true: To evaluate build large streaming video dataset with annotations?,**
+Is this true: Experimental results demonstrate promising performance?,**
+Is this true: Experimental results on G3D dataset?,**
+Is this true: Machine translation evaluation related to Sentence-level semantic equivalence classification?,**
+Is this true: Machine translation evaluation explores use of standard MT evaluation methods?,**
+Is this true: Machine translation evaluation explores building classifiers for predicting semantic equivalence and entailment?,**
+Is this true: Machine translation evaluation explores novel classification method based on PER?,**
+Is this true: Machine translation evaluation incorporates part of speech information?,**
+Is this true: Machine translation evaluation provides valuable features for paraphrase classification?,**
+Is this true: Machine translation evaluation provides valuable features for entailment?,**
+Is this true: Classification method based on PER?,**
+Is this true: Classification method incorporates part of speech information?,**
+Is this true: Results indicate MT evaluation techniques can provide valuable features for paraphrase classification?,**
+Is this true: Results indicate MT evaluation techniques can provide valuable features for entailment?,**
+Is this true: Technique proposed improves paraphrase classification accuracy?,**
+Is this true: Technique proposed improves accuracy compared to other models tested in the experiments?,**
+Is this true: Visual object tracking involves numerical optimization problem?,**
+Is this true: Visual object tracking involves object model?,**
+Is this true: Visual object tracking involves black-box measure of similarity?,**
+Is this true: Visual object tracking involves candidate targets?,**
+Is this true: Local optimization used during tracking conditions?,**
+Is this true: Local optimization tracks local mode?,**
+Is this true: Local optimization tracks similarity measure?,**
+Is this true: Local optimization tracks parameter space?,**
+Is this true: Local optimization tracks translation?,**
+Is this true: Local optimization tracks rotation?,**
+Is this true: Local optimization tracks scale?,**
+Is this true: Local tracking may fail when object is occluded?,**
+Is this true: Local tracking may fail when prediction techniques are not effective?,**
+Is this true: Object detection treated as global optimization problem?,**
+Is this true: Object detection solved using Adaptive Simulated Annealing?,**
+Is this true: Adaptive Simulated Annealing prevents getting stuck at local modes?,**
+Is this true: Adaptive Simulated Annealing faster than exhaustive search?,**
+Is this true: Adaptive Simulated Annealing stochastically samples parameter space?,**
+Is this true: Cluster analysis applied to sampled parameter space?,**
+Is this true: Cluster analysis redetects object?,**
+Is this true: Cluster analysis updates local tracker?,**
+Is this true: Hybrid local and global mode-seeking tracker tested on airborne videos?,**
+Is this true: Hybrid local and global mode-seeking tracker tested on heavy occlusion?,**
+Is this true: Hybrid local and global mode-seeking tracker tested on large camera motions?,**
+Is this true: Hybrid local and global mode-seeking tracker outperforms state-of-the-art trackers?,**
+Is this true: Hybrid local and global mode-seeking tracker outperforms VIVID benchmark datasets?,**
+Is this true: Techniques involve automatically training modules?,**
+Is this true: automatically training modules part of natural language generator?,**
+Is this true: natural language generator produce utterances?,**
+Is this true: trainable components quality comparison with hand-crafted template-based approaches?,**
+Is this true: trainable components quality comparison with rule-based approaches?,**
+Is this true: paper evaluate trainable sentence planner?,**
+Is this true: trainable sentence planner evaluation method eliciting subjective human judgments?,**
+Is this true: paper evaluate hand-crafted template-based generation component?,**
+Is this true: paper evaluate two rule-based sentence planners?,**
+Is this true: paper evaluate two baseline sentence planners?,**
+Is this true: results show trainable sentence planner performs better than rule-based systems?,**
+Is this true: results show trainable sentence planner performs as well as hand-crafted system?,**
+Is this true: Algorithm proposed for Novel view generation?,**
+Is this true: Algorithm used in One-to-one teleconferencing applications?,**
+Is this true: Cameras placed on either side of Computer monitor?,**
+Is this true: Algorithm synthesizes images from Virtual camera?,**
+Is this true: Virtual camera facilitates Eye contact?,**
+Is this true: Algorithm based on Dynamic-programming stereo algorithm?,**
+Is this true: Dynamic-programming stereo algorithm improved for Novel-view generation?,**
+Is this true: Algorithm main contributions are Three-plane graph for dense-stereo dynamic-programming?,**
+Is this true: Three-plane graph encourages Correct occlusion labeling?,**
+Is this true: Algorithm main contributions are Geometric derivation for Novel-view synthesis?,**
+Is this true: Geometric derivation derived by Direct projection of minimum-cost surface?,**
+Is this true: Algorithm presents Novel algorithm for temporal maintenance of Background model?,**
+Is this true: Background model enhances Rendering of occlusions?,**
+Is this true: Background model reduces Temporal artifacts?,**
+Is this true: Algorithm presents Cost aggregation algorithm?,**
+Is this true: Cost aggregation algorithm acts on Three-dimensional matching cost space?,**
+Is this true: Algorithm demonstrates robustness to Spatial artifacts?,**
+Is this true: Algorithm demonstrates robustness to Temporal artifacts?,**
+Is this true: Algorithm synthesizes Cyclopean views of extended conversational sequences?,**
+Is this true: Algorithm demonstrates synthesis from Freely translating Virtual camera?,**
+Is this true: Manual acquisition in broad domains?,**
+Is this true: automatic scheme collects statistics on cooccurrence patterns?,**
+Is this true: automatic scheme collects statistics on large corpus?,**
+Is this true: statistics reflect semantic constraints?,**
+Is this true: statistics used to disambiguate anaphora references?,**
+Is this true: statistics used to disambiguate syntactic ambiguities?,**
+Is this true: scheme gathers statistics on linguistic tools?,**
+Is this true: experiment conducted to resolve references of pronoun?,**
+Is this true: experiment selected sentences from corpus?,**
+Is this true: results demonstrate that cooccurrence statistics?,**
+Is this true: results provide a basis for disambiguation tool?,**
+Is this true: novel method discovers parallel sentences?,**
+Is this true: novel method discovers comparable corpora?,**
+Is this true: novel method discovers non-parallel corpora?,**
+Is this true: maximum entropy classifier determines pair of sentences?,**
+Is this true: pair of sentences are translations of each other?,**
+Is this true: novel method extracts parallel data?,**
+Is this true: parallel data from Chinese newspaper corpora?,**
+Is this true: parallel data from Arabic newspaper corpora?,**
+Is this true: parallel data from English newspaper corpora?,**
+Is this true: quality evaluated by impact?,**
+Is this true: impact on performance?,**
+Is this true: performance of statistical machine translation system?,**
+Is this true: MT system developed from parallel corpus?,**
+Is this true: parallel corpus leverages non-parallel corpus?,**
+"Is this true: MT system developed from 100,000 words?",**
+Is this true: method beneficial for language pairs?,**
+Is this true: language pairs with limited available resources?,**
+Is this true: paper describes search procedure?,**
+Is this true: search procedure based on statistical machine translation?,**
+Is this true: search procedure based on dynamic programming?,**
+Is this true: search procedure based on word reordering?,**
+Is this true: search procedure involves source language?,**
+Is this true: search procedure involves target language?,**
+Is this true: search procedure involves search algorithm?,**
+Is this true: search algorithm achieves efficient search?,**
+Is this true: word reordering restricted by novel technique?,**
+Is this true: source language translated from German?,**
+Is this true: target language translated to English?,**
+Is this true: experimental tests carried out on Verbmobil task?,**
+Is this true: Verbmobil task involves limited-domain spoken-language task?,**
+Is this true: LR-parsers functional implementation recursive descent parser?,**
+Is this true: LR-parsers generalization of recursive descent parser?,**
+Is this true: LR-parsers time-complexity cubic?,**
+Is this true: LR-parsers use memo-functions?,**
+Is this true: LR-parsers store previous results?,**
+Is this true: LR-parsers help in creating a compact representation of the parse forest?,**
+Is this true: LR-parsers related to recursive ascent parsers?,**
+Is this true: LR-parsers discovered by Kruse-man Aretz?,**
+Is this true: LR-parsers discovered by Roberts?,**
+Is this true: LR-parsers parse Extended CF grammars?,**
+Is this true: Extended CF grammars include regular expressions on the right-hand side?,**
+Is this true: LR-parser modification for normal CF grammars?,**
+Is this true: theory of discourse structure focuses on purpose?,**
+Is this true: theory of discourse structure focuses on processing?,**
+Is this true: discourse structure comprises linguistic structure?,**
+Is this true: discourse structure comprises intentional structure?,**
+Is this true: discourse structure comprises attentional state?,**
+Is this true: linguistic structure includes segments?,**
+Is this true: linguistic structure groups utterances?,**
+Is this true: intentional structure captures discourse-relevant purposes?,**
+Is this true: intentional structure captures relationships?,**
+Is this true: attentional state represents focus of attention?,**
+Is this true: attentional state notes salient objects?,**
+Is this true: attentional state notes properties?,**
+Is this true: attentional state notes relations?,**
+Is this true: theory of discourse structure explains cue phrases?,**
+Is this true: theory of discourse structure explains referring expressions?,**
+Is this true: theory of discourse structure explains interruptions?,**
+Is this true: discourses illustrate theory of attention?,**
+Is this true: discourses illustrate intention?,**
+Is this true: discourses illustrate aggregation of utterances?,**
+Is this true: properties of discourse described by various properties?,**
+Is this true: behavior of cue phrases explored for explanations?,**
+Is this true: referring expressions explored for explanations?,**
+Is this true: interruptions explored for explanations?,**
+Is this true: theory of discourse structure offers framework?,**
+Is this true: framework describes processing of utterances?,**
+Is this true: processing of utterances involves recognizing how utterances aggregate into segments?,**
+Is this true: processing of utterances involves understanding intentions?,**
+Is this true: processing of utterances involves tracking discourse through attentional mechanisms?,**
+Is this true: recognition tasks involve information?,**
+Is this true: recognition tasks involve participants' knowledge?,**
+Is this true: participants' knowledge of domain?,**
+Is this true: Tree Adjoining Grammars related to Head Grammars?,**
+Is this true: Tree Adjoining Grammars investigate weak equivalence?,**
+Is this true: Head Grammars investigate weak equivalence?,**
+Is this true: Tree Adjoining Grammars discussion topic linguistic expressiveness?,**
+Is this true: Head Grammars discussion topic linguistic expressiveness?,**
+Is this true: Sentence-level anaphora explained in Dependency-based grammar model?,**
+Is this true: Text-level anaphora explained in Dependency-based grammar model?,**
+Is this true: Criteria for anaphora resolution based on GB's binding theory?,**
+Is this true: Text-level anaphora involves Grosz-Sidner-style focus model?,**
+Is this true: Coedition involves natural language text?,**
+Is this true: Coedition involves interlingual form?,**
+Is this true: UNL graphs considered suitable option?,**
+Is this true: prototype currently in development?,**
+Is this true: naive users interact with text in their language (L0)?,**
+Is this true: naive users interact indirectly with associated graph?,**
+Is this true: modifications made to graph?,**
+Is this true: modifications processed by UNL-L0 deconverter?,**
+Is this true: results displayed after processing by UNL-L0 deconverter?,**
+Is this true: errors likely attributed to graph?,**
+Is this true: graph sent to deconverters in other languages?,**
+Is this true: users option to view versions in other languages they are familiar with?,**
+Is this true: collaborative work becomes feasible on multilingual document?,**
+Is this true: connections established between elements of the text and the graph?,**
+"Is this true: resources used for establishing connections LO-English or L0-UNL dictionary, morphosyntactic parser for L0, canonical graph2tree transformation?",**
+Is this true: goal achieve best correspondence between UNL-tree + L0 and MS-L0 structure?,**
+Is this true: goal minimize overlapping connections through use of dictionary and aligning the tree and selected trajectory?,**
+"Is this true: research aims to integrate approaches from pivot MT, interactive MT, and multilingual text authoring?",**
+Is this true: analogies relation words?,**
+Is this true: computational linguists opinion analogies between sentences?,**
+Is this true: experiments conducted on multilingual corpus?,**
+Is this true: experiments estimate number of analogies among sentences?,**
+Is this true: experiments provide two estimates?,**
+Is this true: estimates lower estimate provided?,**
+Is this true: estimates higher estimate provided?,**
+Is this true: translation preserve meaning?,**
+Is this true: translation test for similar meanings?,**
+Is this true: Mahalanobis distance learned by minimizing loss?,**
+Is this true: loss defined on weighted sum?,**
+Is this true: weighted sum of precision at different ranks?,**
+Is this true: minimizing criterion for computer vision problems?,**
+Is this true: computer vision problems such as person re-identification?,**
+Is this true: metric learning formulation called Weighted Approximate Rank Component Analysis (WARCA)?,**
+Is this true: Weighted Approximate Rank Component Analysis (WARCA) derived by scalable stochastic gradient descent algorithm?,**
+Is this true: Weighted Approximate Rank Component Analysis (WARCA) extended by non-linear extension using kernel trick?,**
+Is this true: kernel trick enables plug in arbitrary distance measures?,**
+Is this true: kernel trick enables plug in distance measures natural for features?,**
+Is this true: matrix rank degeneration addressed by new regularizer?,**
+Is this true: new regularizer enforces orthonormality of learned matrix?,**
+Is this true: orthonormality of learned matrix efficiently enforced by new regularizer?,**
+Is this true: new method validated on nine standard person re-identification datasets?,**
+Is this true: nine standard person re-identification datasets include Market-1501 and CUHK03 datasets?,**
+Is this true: new method improves upon state-of-the-art methods on all datasets?,**
+Is this true: language model adaptation methods discuss word list?,**
+Is this true: language model adaptation methods discuss raw corpus?,**
+Is this true: language model adaptation methods focus on correction unit?,**
+Is this true: language model adaptation methods propose sentence-by-sentence error correction method?,**
+Is this true: sentence-by-sentence error correction method correct output sentences?,**
+Is this true: sentence-by-sentence error correction method build model?,**
+Is this true: sentence-by-sentence error correction method focus on positions?,**
+Is this true: sentence-by-sentence error correction method capture statistical behavior?,**
+Is this true: sentence-by-sentence error correction method demonstrate advantages?,**
+Is this true: segment automatically segment raw corpus?,**
+Is this true: segment correct output sentences?,**
+Is this true: segment build model?,**
+Is this true: segment focus on positions?,**
+Is this true: segment capture statistical behavior?,**
+Is this true: segment compare language models?,**
+Is this true: output sentences correct by hand?,**
+Is this true: model build from segmented corpus?,**
+Is this true: positions correct word list?,**
+Is this true: correction unit take as word?,**
+Is this true: statistical behavior capture specific words?,**
+Is this true: specific words appear in application?,**
+Is this true: experiments use various methods?,**
+Is this true: experiments compare language models?,**
+Is this true: language models base on speech recognition accuracies?,**
+Is this true: results demonstrate advantages?,**
+Is this true: Practical modeling problems involve Discrete data?,**
+Is this true: Discrete data represented as Multinomial distributions?,**
+Is this true: Discrete data represented as Categorical distributions?,**
+Is this true: Multinomial distributions modeled with Nucleotides?,**
+Is this true: Multinomial distributions modeled with Children's names?,**
+Is this true: Multinomial distributions modeled with Text documents?,**
+Is this true: Nucleotides in DNA sequence?,**
+Is this true: Children's names in given state and year?,**
+Is this true: Text documents modeled with Multinomial distributions?,**
+Is this true: Dependency expected in draws?,**
+Is this true: Nucleotides dependent on preceding nucleotides?,**
+Is this true: Children's names highly correlated from year to year?,**
+Is this true: Topics in text may be correlated and dynamic?,**
+Is this true: Dependencies not captured by Dirichlet-multinomial formulation?,**
+Is this true: Dirichlet-multinomial formulation reformulated with Logistic stick-breaking representation?,**
+Is this true: Dirichlet-multinomial formulation reformulated with Pólya-gamma augmentation?,**
+Is this true: Multinomial distribution reformulated in terms of Latent variables?,**
+Is this true: Latent variables have Gaussian likelihoods?,**
+Is this true: Bayesian inference techniques applied to Gaussian models?,**
+Is this true: Bayesian inference techniques applied with minimal overhead?,**
+Is this true: MINPRAN operator specializes in finding good fits in datasets with more than 50% outliers?,**
+Is this true: MINPRAN does not require known error bound for the good data?,**
+Is this true: MINPRAN assumes bad data are uniformly distributed within the sensor's dynamic range?,**
+Is this true: MINPRAN utilizes random sampling to search for the best fit?,**
+Is this true: MINPRAN searches for the number of inliers least likely to occur randomly?,**
+Is this true: MINPRAN time complexity O(N^2 + SN log N)?,**
+Is this true: MINPRAN analytically distinguishes good fits from random data?,**
+Is this true: MINPRAN accurately identifies inliers regardless of the true inliers' percentage?,**
+Is this true: MINPRAN performs well compared to least median of squares?,**
+Is this true: MINPRAN successfully applied to complex range and intensity data in related work?,**
+Is this true: Metagrammatical formalisms combine context-free phrase structure rules?,**
+Is this true: Metagrammatical formalisms combine metarules?,**
+Is this true: Metagrammatical formalisms express generalizations?,**
+Is this true: Metagrammatical formalisms about syntax?,**
+Is this true: Metagrammatical formalisms of natural languages?,**
+Is this true: MPS grammars pose computational risks?,**
+Is this true: Various proposals for constraining them?,**
+Is this true: proposals evaluated based on computational tractability?,**
+Is this true: proposals evaluated based on explanatory adequacy?,**
+Is this true: None of the proposals meets both criteria?,**
+Is this true: criteria indicating the need for further research?,**
+Is this true: research on alternative metagrammatical formalisms?,**
+Is this true: Tree-adjoining grammars known for unique properties?,**
+Is this true: TAG known for unique properties?,**
+Is this true: TAG applied in syntax?,**
+Is this true: TAG applied in semantic interpretation?,**
+Is this true: TAG applied in automatic translation?,**
+Is this true: synchronous TAGs introduced to establish correspondences between languages?,**
+Is this true: synchronous TAGs formalism aims to connect expressions in natural languages with their semantic representations in logical form language?,**
+Is this true: synchronous TAGs formalism aims to connect expressions in natural languages with translations in other languages?,**
+Is this true: synchronous TAGs applied in syntax?,**
+Is this true: synchronous TAGs applied in semantic interpretation?,**
+Is this true: synchronous TAGs applied in automatic translation?,**
+Is this true: goal expand the use of TAGs beyond syntax?,**
+Is this true: application of synchronous TAGs discussed with concrete examples?,**
+Is this true: application of synchronous TAGs mentions computational issues?,**
+Is this true: Model-based approach applied to On-line cursive handwriting analysis?,**
+Is this true: Model-based approach used for Recognition?,**
+Is this true: On-line cursive handwriting analysis modeled as Cycloidal pen motion?,**
+Is this true: Cycloidal pen motion described by Oscillations?,**
+Is this true: Cycloidal pen motion includes Linear drift?,**
+Is this true: Pen trajectory encoded by Amplitudes and phase lags?,**
+Is this true: Amplitudes and phase lags quantized into Quantization?,**
+Is this true: Quantization does not affect Writing intelligibility?,**
+Is this true: Quantization applied to Cycloidal motion parameters?,**
+Is this true: Cycloidal motion parameters estimated and quantized for Arbitrary handwriting?,**
+Is this true: Motor control representation represents Continuous pen motion?,**
+Is this true: Motor control representation achieved through Quantized levels of model parameters?,**
+Is this true: Motor control representation enables Word spotting and matching of Cursive scripts?,**
+Is this true: Experiments demonstrate Potential of dynamic representation for complete cursive handwriting recognition?,**
+Is this true: Object Recognition task has distinction between categorizing objects?,**
+Is this true: Object Recognition task has distinction between estimating object pose?,**
+Is this true: categorizing objects requires view-invariant representation?,**
+Is this true: estimating object pose requires representation that can capture pose information across different object categories?,**
+Is this true: Deep architectures focus on object category recognition?,**
+Is this true: Deep architectures achieve success in object category recognition?,**
+Is this true: object pose estimation not receive as much attention as object category recognition?,**
+Is this true: study explores how CNN architectures can be adapted for simultaneous object recognition and pose estimation?,**
+Is this true: research delve into layers of various CNN models?,**
+Is this true: research compare layers of various CNN models extensively?,**
+Is this true: research understand how distributed representations within CNNs capture object pose information?,**
+Is this true: research understand how distributed representations within CNNs differ from object category representations?,**
+Is this true: experiments conducted on two recent large and challenging multi-view datasets?,**
+Is this true: experiments demonstrate superior performance compared to current state-of-the-art methods?,**
+Is this true: English-Chinese bitexts harvested from Web?,**
+Is this true: English-Chinese bitexts aligned to subparagraph level?,**
+Is this true: laws of Hong Kong part of bilingual corpus?,**
+Is this true: laws of Hong Kong domain of HK laws?,**
+Is this true: bilingual corpus consists of 10.4 million English words?,**
+Is this true: bilingual corpus consists of 18.3 million Chinese characters?,**
+Is this true: bilingual corpus provides authoritative text collection?,**
+Is this true: bilingual corpus provides comprehensive text collection?,**
+Is this true: bilingual corpus valuable for MT research?,**
+Is this true: bilingual corpus lays foundation for further exploration?,**
+Is this true: MT research empirical research on bilingual corpus?,**
+Is this true: further exploration involves harvesting from Web?,**
+Is this true: Light fields are image-based representations?,**
+Is this true: image-based representations use densely sampled rays?,**
+Is this true: densely sampled rays serve as scene description?,**
+Is this true: geometric structures are explored in ray space?,**
+Is this true: 3D lines are present in ray space?,**
+Is this true: ray space is used for light field triangulation?,**
+Is this true: ray space is used for stereo matching?,**
+Is this true: triangulation problem aims to fill in ray space?,**
+Is this true: triangulation problem aims to create simplices?,**
+Is this true: simplices are anchored at sampled points?,**
+Is this true: sampled points are rays?,**
+Is this true: triangulation problem provides interpolant?,**
+Is this true: interpolant is useful for light field super-resolution?,**
+Is this true: light field space is largely bi-linear?,**
+Is this true: bi-linear subspaces are present due to 3D line segments?,**
+Is this true: direct triangulation leads to errors?,**
+Is this true: algorithm maps bilinear subspaces to line constraints?,**
+Is this true: algorithm applies Constrained Delaunay Triangulation?,**
+Is this true: Constrained Delaunay Triangulation is used for triangulation?,**
+Is this true: line-assisted graph-cut is developed based on analysis?,**
+Is this true: LAGC algorithm encodes 3D line constraints into light field stereo matching?,**
+Is this true: experiments are conducted on synthetic data?,**
+Is this true: experiments are conducted on real data?,**
+Is this true: our triangulation and LAGC algorithms outperform state-of-the-art solutions in accuracy?,**
+Is this true: our triangulation and LAGC algorithms outperform state-of-the-art solutions in visual quality?,**
+Is this true: Phrase-based statistical machine translation method based on Non-contiguous phrases?,**
+Is this true: Phrase-based statistical machine translation method based on Word-aligned corpora?,**
+Is this true: Phrase-based statistical machine translation method presents Statistical translation model?,**
+Is this true: Phrase-based statistical machine translation method presents Training method?,**
+Is this true: Training method based on Maximization of translation accuracy?,**
+Is this true: Training method measured with NIST evaluation metric?,**
+Is this true: Phrase-based statistical machine translation method produces Translations?,**
+Is this true: Translations produced by Beam-search decoder?,**
+Is this true: Phrase-based statistical machine translation method presents Experimental results?,**
+Is this true: GLOSSER instance of program?,**
+Is this true: program designed to support reading?,**
+Is this true: program designed to support learning?,**
+Is this true: program designed to support foreign language?,**
+Is this true: GLOSSER supports language pair English-Bulgarian?,**
+Is this true: GLOSSER supports language pair English-Estonian?,**
+Is this true: GLOSSER supports language pair English-Hungarian?,**
+Is this true: GLOSSER supports language pair French-Dutch?,**
+Is this true: program operational on UNIX?,**
+Is this true: program operational on Windows '95?,**
+Is this true: program undergone pilot user-study?,**
+Is this true: demonstration emphasizes components used in intelligent computer-assisted morphological analysis (ICALL)?,**
+Is this true: intelligent computer-assisted morphological analysis (ICALL) includes disambiguated morphological analysis?,**
+Is this true: intelligent computer-assisted morphological analysis (ICALL) includes lemmatized indexing?,**
+Is this true: intelligent computer-assisted morphological analysis (ICALL) applies to bilingual corpus?,**
+Is this true: bilingual corpus consists of word examples?,**
+Is this true: part-of-speech tagger utilizes preceding tag contexts?,**
+Is this true: part-of-speech tagger utilizes following tag contexts?,**
+Is this true: part-of-speech tagger utilizes dependency network representation?,**
+Is this true: part-of-speech tagger incorporates lexical features?,**
+Is this true: part-of-speech tagger conditioning on multiple consecutive words?,**
+Is this true: part-of-speech tagger utilizes priors in conditional loglinear models?,**
+Is this true: part-of-speech tagger models unknown word features?,**
+Is this true: tagger achieves accuracy of 97.24% on Penn Treebank WSJ?,**
+Is this true: Person re-identification challenging task pose?,**
+Is this true: Person re-identification challenging task illumination?,**
+Is this true: Person re-identification challenging task occlusion?,**
+Is this true: Person re-identification challenging task camera view?,**
+Is this true: pedestrian data forms highly-curved manifolds?,**
+Is this true: pedestrian data forms feature space?,**
+Is this true: CNN has feature extraction capability?,**
+Is this true: data distribution is unknown?,**
+Is this true: geodesic distance comparison is difficult?,**
+Is this true: deep embedding methods use Euclidean distance?,**
+Is this true: manifold learning methods suggest using Euclidean distance locally?,**
+Is this true: manifold learning methods suggest considering graphical relationship between samples?,**
+Is this true: positive training samples are crucial for training CNN embedding?,**
+Is this true: positive training samples are crucial for large intra-class variations?,**
+Is this true: moderate positive sample mining method is proposed to address large variation in person re-identification?,**
+Is this true: learning is enhanced through metric weight constraint?,**
+Is this true: experimental results show effectiveness of strategies?,**
+Is this true: deep model surpasses state-of-the-art methods?,**
+Is this true: study may inspire new designs of deep models?,**
+Is this true: Utterance Verification is a function of Automatic Speech Recognition?,**
+Is this true: Utterance Verification deals with spontaneous speech?,**
+Is this true: Utterance Verification deals with out-of-vocabulary words?,**
+Is this true: Utterance Verification deals with acoustic noises?,**
+Is this true: Utterance Verification presents new UV procedure?,**
+Is this true: new UV procedure includes Word Spotting capabilities?,**
+Is this true: new UV procedure includes Noise Spotting capabilities?,**
+Is this true: new UV procedure includes confidence tests?,**
+Is this true: confidence tests based on acoustic measures?,**
+Is this true: confidence tests based on linguistic information?,**
+Is this true: Experimental results show 50% reduction in recognition errors?,**
+Is this true: Experimental results show 12% rejection rate of correct utterances?,**
+Is this true: Experimental results show 1.5% rate of false acceptance?,**
+Is this true: Experimental results from real telephone application?,**
+Is this true: analog pressure wave coded into nerve-action potentials?,**
+Is this true: pool models do not reproduce dead time period?,**
+Is this true: Visual inspection used to investigate offset adaptation model?,**
+Is this true: ASR used to investigate offset adaptation model?,**
+Is this true: offset adaptation model improved phase locking?,**
+Is this true: offset adaptation model raised ASR accuracy?,**
+Is this true: offset adaptation model crucial for auditory processing?,**
+Is this true: auditory processing by onset neurons?,**
+Is this true: MLPs performed better than GMMs?,**
+Is this true: MLPs performed better than standard Gaussian mixture models?,**
+Is this true: MLPs performed better than Gaussian mixture models?,**
+Is this true: MLPs performed better than both auditory features based on auditory nerve fibers and onset neurons?,**
+Is this true: Similar results obtained with Modulation-filtered SpectroGram auditory features?,**
+Is this true: researchers should consider trying MLPs?,**
+Is this true: Computer vision driven by High-capacity models?,**
+Is this true: High-capacity models trained on Large datasets?,**
+Is this true: Large datasets created with Pixel-level labels?,**
+Is this true: Pixel-level labels costly due to Human effort?,**
+Is this true: Approach used for Creating pixel-accurate semantic label maps?,**
+Is this true: Creating pixel-accurate semantic label maps for Images?,**
+Is this true: Images extracted from Modern computer games?,**
+Is this true: novel step towards unsupervised segmentation?,**
+Is this true: unsupervised segmentation of whole objects?,**
+Is this true: hints of partial scene segmentation?,**
+Is this true: partial scene segmentation using soft mattes?,**
+Is this true: partial scene segmentation using binary mattes?,**
+Is this true: mattes implied by object boundary fragments?,**
+Is this true: object boundary fragments in scene?,**
+Is this true: approach aligns with methods?,**
+Is this true: methods for unsupervised object discovery?,**
+Is this true: approach allows for evaluation metrics?,**
+Is this true: evaluation metrics based on delineation of scene objects?,**
+Is this true: method builds on advancements?,**
+Is this true: advancements in spectral clustering?,**
+Is this true: advancements in image matting?,**
+Is this true: advancements in boundary detection?,**
+Is this true: method demonstrated qualitatively?,**
+Is this true: method demonstrated quantitatively?,**
+Is this true: method on dataset?,**
+Is this true: dataset of scenes?,**
+Is this true: method suitable for ongoing work?,**
+Is this true: ongoing work in unsupervised object discovery?,**
+Is this true: unsupervised object discovery without prior knowledge?,**
+Is this true: Language resource quality is crucial in NLP?,**
+Is this true: resources derived from data?,**
+Is this true: data created by human beings?,**
+Is this true: data used for MT and reference translations?,**
+Is this true: Automatic evaluations require high-quality data?,**
+Is this true: Automatic evaluations compare automatic and human translations?,**
+Is this true: It recommended to validate resources before use?,**
+Is this true: This paper discusses impact of using different-quality references on evaluation?,**
+Is this true: Similar scores obtained in many cases regardless of quality?,**
+Is this true: limitations discussed within MT?,**
+Is this true: automatic metrics used within MT?,**
+Is this true: Turkish instance of agglutinative language?,**
+Is this true: Turkish has finite-state?,**
+Is this true: Turkish has morphotactics?,**
+Is this true: Turkish has morphemes?,**
+Is this true: Turkish has phonetic rules?,**
+Is this true: Turkish has vowel harmony?,**
+Is this true: PC-KIMMO environment used for morphological description?,**
+"Is this true: root word lexicon contains 23,000 roots words?",**
+Is this true: phonological rules constrain surface realizations?,**
+Is this true: morphological rules guide morphological constructions?,**
+Is this true: agglutinative language forms word structures?,**
+Is this true: derivational suffixes attach to root words?,**
+Is this true: inflectional suffixes attach to root words?,**
+Is this true: morphemes added to root word?,**
+Is this true: nominal structure converted from verbal structure?,**
+Is this true: verbal structure converted from nominal structure?,**
+Is this true: adverbial constructs created by morphemes?,**
+Is this true: surface realizations modified by phonetic rules?,**
+Is this true: phonetic rules include vowel harmony?,**
+Is this true: fundamental frequency (F0) contour generated from text input?,**
+Is this true: fundamental frequency (F0) contour used in text-to-speech synthesis?,**
+Is this true: statistical model describes generation process?,**
+Is this true: generation process based on discrete-time version?,**
+Is this true: generation process based on Fujisaki model?,**
+Is this true: Fujisaki model introduced previously?,**
+Is this true: model has ability to derive efficient algorithm?,**
+Is this true: efficient algorithm estimates Fujisaki-model parameters?,**
+Is this true: Fujisaki-model parameters derived from raw F0 contours?,**
+Is this true: sequence linked with Fujisaki-model parameters?,**
+Is this true: Fujisaki-model parameters linked with text input?,**
+Is this true: model expanded to context-dependent model?,**
+Is this true: parameter training algorithm proposed for model?,**
+Is this true: parameter training algorithm based on decision tree-based context clustering?,**
+Is this true: method speed up evaluation of object detection cascades?,**
+Is this true: method use divide-and-conquer approach?,**
+Is this true: divide-and-conquer approach in candidate regions space?,**
+Is this true: method require fewer evaluations of classifier functions?,**
+Is this true: method result in faster search?,**
+Is this true: method integrate efficient subwindow search (ESS) procedure?,**
+Is this true: efficient subwindow search (ESS) procedure into final stage of method?,**
+Is this true: method accelerate cascade evaluation?,**
+Is this true: method perform branch-and-bound object detection using nonlinear quality functions?,**
+Is this true: nonlinear quality functions specifically kernel-ized support vector machines?,**
+Is this true: experiments on PASCAL VOC 2006 dataset?,**
+Is this true: experiments indicate more than 50% acceleration compared to standard cascade evaluation?,**
+Is this true: Background modeling component of vision systems?,**
+Is this true: Background modeling addresses scenes?,**
+Is this true: scenes consist of static structures?,**
+Is this true: scenes consist of quasi-static structures?,**
+Is this true: method proposed for modeling?,**
+Is this true: method proposed for subtraction?,**
+Is this true: method utilizes Optical flow?,**
+Is this true: Optical flow computed in higher dimensional space?,**
+Is this true: Ambiguities addressed by data-dependent bandwidth?,**
+Is this true: data-dependent bandwidth used for density estimation?,**
+Is this true: density estimation done with kernels?,**
+Is this true: Experiments demonstrate utility?,**
+Is this true: Experiments demonstrate performance?,**
+Is this true: proposed approach demonstrates utility?,**
+Is this true: proposed approach demonstrates performance?,**
+Is this true: Information distillation process of extracting relevant information?,**
+Is this true: Information distillation related to query?,**
+Is this true: Information distillation from audio and textual document sources?,**
+Is this true: method using information extraction annotations?,**
+Is this true: method enhance document retrieval?,**
+Is this true: method for distillation?,**
+Is this true: distillation queries linked to annotation elements?,**
+Is this true: distillation queries used in NIST Automatic Content Extraction (ACE) task?,**
+Is this true: experiments demonstrate utilizing ACE events?,**
+Is this true: ACE events limit document set retrieved?,**
+Is this true: ACE events enhances precision?,**
+Is this true: ACE events at recall rates?,**
+Is this true: ACE events for different query templates?,**
+Is this true: Paper presents novel representation?,**
+Is this true: novel representation used for three-dimensional objects?,**
+Is this true: novel representation based on affine-invariant image patches?,**
+Is this true: affine-invariant image patches have spatial relationships?,**
+Is this true: spatial relationships combined with multi-view constraints?,**
+Is this true: multi-view constraints associated with groups of patches?,**
+Is this true: groups of patches guide matching and reconstruction?,**
+Is this true: matching and reconstruction allow acquisition of true three-dimensional affine and Euclidean models?,**
+Is this true: acquisition from multiple images?,**
+Is this true: acquisition allow recognition in a single photograph taken from any viewpoint?,**
+Is this true: proposed approach eliminates need for a separate segmentation stage?,**
+Is this true: proposed approach applicable to cluttered scenes?,**
+Is this true: Preliminary modeling and recognition results provided for proposed approach?,**
+Is this true: Fast algorithms focus on Distance?,**
+Is this true: Nearest neighbor search focus on Distance?,**
+Is this true: Distance involves Embedding?,**
+Is this true: Embedding preserves Points?,**
+Is this true: Points embedded into 2?,**
+Is this true: Embedding exact true?,**
+Is this true: Embedding explicit true?,**
+Is this true: Embedding distance-preserving true?,**
+Is this true: Embedding method distance-preserving?,**
+Is this true: Embedding method exact?,**
+Is this true: Embedding method explicit?,**
+Is this true: Embedding method embedding?,**
+Is this true: Embedding method points?,**
+Is this true: Embedding method 2?,**
+Is this true: Embedding method combined with Random-projection based methods?,**
+Is this true: Random-projection based methods include Locality-sensitive hashing?,**
+Is this true: Random-projection based methods include Random projection trees?,**
+Is this true: Methodology established correctness?,**
+Is this true: Experimentation using Locality-sensitive hashing?,**
+Is this true: Locality-sensitive hashing competitive with Competitive alternatives?,**
