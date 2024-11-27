@@ -1,6 +1,6 @@
 # <center><img src="img/icon.png" style="width: 3%">  Can LLMs be Good Graph Judger for Knowledge Graph Construction?</center>
 
-This is the repo for the paper "Can LLMs be Good Graph Judger for Knowledge Graph Construction?". We will release the model checkpoints later.
+This is the repo for the paper [Can LLMs be Good Graph Judger for Knowledge Graph Construction?](https://arxiv.org/abs/2411.17388). We will release the model checkpoints later.
 
 ![Illustration of multi-agent collaborative framework](./img/graphjudger.png)
 
