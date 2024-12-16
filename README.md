@@ -2,7 +2,11 @@
 
 This is the repo for the paper [Can LLMs be Good Graph Judger for Knowledge Graph Construction?](https://arxiv.org/abs/2411.17388).
 
-LoRA weights have been released: 🤗 <a href="https://huggingface.co/HaoyuHuang2/graphjudger" target="_blank">Hugging Face</a>
+LoRA weights have been released: 🤗 <a href="https://huggingface.co/HaoyuHuang2/graphjudger" target="_blank">Hugging Face</a>.
+<a href="https://github.com/hhy-huang/GraphJudger" target="_blank">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/hhy-huang/GraphJudger?style=social" />
+</a>
+
 
 ![Illustration of multi-agent collaborative framework](./img/graphjudger.png)
 
