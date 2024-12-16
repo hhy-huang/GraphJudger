@@ -50,3 +50,16 @@ LoRA weights have been released: 🤗 <a href="https://huggingface.co/HaoyuHuang
 ## Guidance 
 
 Coming soon.
+
+## Cite Us
+```
+@misc{huang2024llmsgoodgraphjudger,
+      title={Can LLMs be Good Graph Judger for Knowledge Graph Construction?}, 
+      author={Haoyu Huang and Chong Chen and Conghui He and Yang Li and Jiawei Jiang and Wentao Zhang},
+      year={2024},
+      eprint={2411.17388},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.17388}, 
+}
+```
