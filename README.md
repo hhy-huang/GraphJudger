@@ -4,11 +4,11 @@ This is the repo for the paper [Can LLMs be Good Graph Judger for Knowledge Grap
 
 LoRA weights have been released: 🤗 <a href="https://huggingface.co/HaoyuHuang2/graphjudger" target="_blank">Hugging Face</a>.
 
-<a href="https://github.com/hhy-huang/GraphJudger" target="_blank">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/hhy-huang/GraphJudger?style=social" />
-</a>
 <a href="https://paperswithcode.com/task/graph-construction/latest" target="_blank">
     <img src="https://img.shields.io/badge/build-KG%20Construction-purple?style=flat&label=Task" />
+</a>
+<a href="https://github.com/hhy-huang/GraphJudger" target="_blank">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/hhy-huang/GraphJudger?style=social" />
 </a>
 
 
