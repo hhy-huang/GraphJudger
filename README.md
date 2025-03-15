@@ -12,7 +12,7 @@ LoRA weights have been released: 🤗 <a href="https://huggingface.co/HaoyuHuang
 </a>
 
 
-![Illustration of multi-agent collaborative framework](./img/graphjudger.png)
+![Illustration of multi-agent collaborative framework](./img/graphjudger_new.png)
 
 ## Project Structure
 ```
